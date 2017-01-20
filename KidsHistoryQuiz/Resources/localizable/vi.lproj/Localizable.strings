@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Tất cả tài khoản đã lưu sẽ bị mất.";
+"API Access Denied." = "Từ chối truy cập API";
+"Class code:" = "Mã lớp:";
+"Clear list" = "Xoá bảng";
+"(Ask teacher or leave empty)" = "(Hỏi giáo viên hoặc để trống)";
+"email" = "email";
+"Email:" = "Email:";
+"Email does not exist." = "Email không tồn tại.";
+"Email already exists." = "Email đã tồn tại.";
+"Error" = "Lỗi";
+"Password:" = "Mật khẩu:";
+"password" = "mật khẩu";
+"Password is too short, 8+ characters needed." = "Mật khẩu quá ngắn, cần phải hơn 8 ký tự.";
+"Please fill in email and password." = "Hãy điền tên đăng nhập và mật khẩu.";
+"Please fill in your email." = "Hãy điền email của bạn.";
+"Please sign up with your email and choose a password." = "Hãy đăng ký với email của bạn và chọn một mật khẩu.";
+"Class code is not correct, please try again." = "Mã lớp không đúng, hãy thử lại.";
+"Profile" = "Hồ sơ";
+"Profile updated." = "Hồ sơ đã cập nhật.";
+"Joined class:" = "Đã vào lớp:";
+"Invalid email." = "Email không hợp lệ.";
+"Log in with email and password." = "Đăng nhập với email và mật khẩu.";
+"No internet connection." = "Không có kết nối Internet.";
+"Offline" = "Offline";
+"Tasks done" = "Nhiệm vụ đã xong";
+"Success" = "Thành công";
+"Welcome back" = "Chào mừng trở lại";
+"Write your email and we will send you a reset password link." = "Viết email của bạn và chúng tôi sẽ gửi cho bạn liên kết đặt lại mật khẩu.";
+"Wrong password." = "Sai mật khẩu.";
+
+// Buttons
+"Account list" = "Danh sách tài khoả";
+"Add account" = "Thêm tài khoản";
+"Cancel" = "Hủy";
+"Forgot password?" = "Quên mật khẩu?";
+"Save" = "Lưu";
+"Select account" = "Chọn tài khoản";
+"Sign up" = "Đăng ký";
+"Tap on your account to log in." = "Chạm vào tài khoản để đăng nhập.";
+"Highscore" = "Kỷ lục";
+"hours" = "giờ";
+"Log in" = "Đăng nhập";
+"minutes" = "phút";
+"Name:" = "Tên:";
+"OK" = "OK";
+"Choose profile image:" = "Chọn ảnh đại diện:";
+"Edit profile" = "Chỉnh sửa hồ sơ";
+"Reload" = "Tải lại";
+"Reset password" = "Đặt lại mật khẩu";
+"Skills" = "Kỹ năng";
+"Statistics" = "Thống kê";
+
+// Name of topics:
+"Addition" = "Phép cộng";
+"Algebra" = "Đại số";
+"Alphabet" = "Bảng chữ cái";
+"Biology" = "Sinh học";
+"Chemistry" = "Hóa học";
+"Counting" = "Đếm";
+"Division" = "Phép chia";
+"Geography" = "Địa lý";
+"Geometry" = "Hình học";
+"History" = "Lịch sử";
+"Language" = "Ngôn ngữ";
+"Multiplication" = "Phép nhân";
+"Physics" = "Vật lý";
+"Politics" = "Chính trị";
+"Reading" = "Đọc hiểu";
+"Science" = "Khoa học";
+"Subtraction" = "Phép trừ";
+"Total" = "Tổng số";
+"Writing" = "Viết";
+
+// New:
+"Decimals" = "Thập phân";
+"Wrong, minus one second." = "Sai, trừ một giây.";
+"points" = "Điểm";
+"New highscore" = "Kỉ lục mới";
+// New:
+"Start" = "Khởi đầu";

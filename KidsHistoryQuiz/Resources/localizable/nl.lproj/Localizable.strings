@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Alle opgeslagen accounts zullen verloren gaan.";
+"API Access Denied." = "API Toegang Geweigerd.";
+"Class code:" = "Klasse code:";
+"Clear list" = "Lege lijst";
+"(Ask teacher or leave empty)" = "(Vraag leraar of laat het leeg)";
+"email" = "email";
+"Email:" = "Email:";
+"Email does not exist." = "Email bestaat niet.";
+"Email already exists." = "Email bestaat al";
+"Error" = "Foutmelding";
+"Password:" = "Wachtwoord:";
+"password" = "wachtwoord";
+"Password is too short, 8+ characters needed." = "Wachtwoord is te kort, 8+ karakters noodzakelijk.";
+"Please fill in email and password." = "Gelieve gebruikersnaam en wachtwoord in te vullen.";
+"Please fill in your email." = "Gelieve email in te vullen.";
+"Please sign up with your email and choose a password." = "Schrijft u zich in met uw email en kies een wachtwoord";
+"Class code is not correct, please try again." = "Klasse in incorrect, probeer het opnieuw.";
+"Profile" = "Profiel";
+"Profile updated." = "Profiel geüpdatet.";
+"Joined class:" = "Toegetreden klasse:";
+"Invalid email." = "Ongeldige email.";
+"Log in with email and password." = "Meld u aan met het emailadres en wachtwoord.";
+"No internet connection." = "Geen internetverbinding.";
+"Offline" = "Offline";
+"Tasks done" = "Taken volbracht";
+"Success" = "Succes";
+"Welcome back" = "Welkom terug";
+"Write your email and we will send you a reset password link." = "Schrijf uw email en wij zullen u een resetlink sturen.";
+"Wrong password." = "Onjuist wachtwoord.";
+
+// Buttons
+"Account list" = "Account lijst";
+"Add account" = "Voeg account toe";
+"Cancel" = "Annuleer";
+"Forgot password?" = "Wachtwoord vergeten?";
+"Save" = "Opslaan";
+"Select account" = "Selecteer account";
+"Sign up" = "Aanmelden";
+"Tap on your account to log in." = "Druk op uw account om aan te melden.";
+"Highscore" = "Topscore";
+"hours" = "uren";
+"Log in" = "Inloggen";
+"minutes" = "minuten";
+"Name:" = "Naam:";
+"OK" = "Oké";
+"Choose profile image:" = "Kies profiel afbeelding:";
+"Edit profile" = "Bewerk profiel";
+"Reload" = "Herlaad";
+"Reset password" = "Reset password";
+"Skills" = "Skills";
+"Statistics" = "Statisstieken";
+
+// Name of topics:
+"Addition" = "Toevoeging";
+"Algebra" = "Algebra";
+"Alphabet" = "Alfabet";
+"Biology" = "Biologie";
+"Chemistry" = "Scheikunde";
+"Counting" = "Tellen";
+"Division" = "Afdeling";
+"Geography" = "Geografie";
+"Geometry" = "Geometrie";
+"History" = "Geschiedenis";
+"Language" = "Taal";
+"Multiplication" = "Vermenigvuldigen";
+"Physics" = "Natuurkunde";
+"Politics" = "Politiek";
+"Reading" = "Lezen";
+"Science" = "Natuurwetenschap";
+"Subtraction" = "Aftrekken";
+"Total" = "Totaal";
+"Writing" = "Schrijven";
+
+// New:
+"Decimals" = "Decimalen";
+"Wrong, minus one second." = "Fout, min één seconde.";
+"points" = "punten";
+"New highscore" = "Nieuwe topscore";
+// New:
+"Start" = "Begin";

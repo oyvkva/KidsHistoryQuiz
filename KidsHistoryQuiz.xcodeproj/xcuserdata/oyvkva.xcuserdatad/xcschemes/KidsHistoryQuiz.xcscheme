@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D3FEE791E322A010078DF6D"
+               BuildableName = "KidsHistoryQuiz.app"
+               BlueprintName = "KidsHistoryQuiz"
+               ReferencedContainer = "container:KidsHistoryQuiz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D3FEE8D1E322A010078DF6D"
+               BuildableName = "KidsHistoryQuizTests.xctest"
+               BlueprintName = "KidsHistoryQuizTests"
+               ReferencedContainer = "container:KidsHistoryQuiz.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D3FEE981E322A010078DF6D"
+               BuildableName = "KidsHistoryQuizUITests.xctest"
+               BlueprintName = "KidsHistoryQuizUITests"
+               ReferencedContainer = "container:KidsHistoryQuiz.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0D3FEE791E322A010078DF6D"
+            BuildableName = "KidsHistoryQuiz.app"
+            BlueprintName = "KidsHistoryQuiz"
+            ReferencedContainer = "container:KidsHistoryQuiz.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0D3FEE791E322A010078DF6D"
+            BuildableName = "KidsHistoryQuiz.app"
+            BlueprintName = "KidsHistoryQuiz"
+            ReferencedContainer = "container:KidsHistoryQuiz.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0D3FEE791E322A010078DF6D"
+            BuildableName = "KidsHistoryQuiz.app"
+            BlueprintName = "KidsHistoryQuiz"
+            ReferencedContainer = "container:KidsHistoryQuiz.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

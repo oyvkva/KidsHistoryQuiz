@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Semua akun yang tersimpan akan hilang.";
+"API Access Denied." = "Akses API Ditolak.";
+"Class code:" = "Kode Kelas:";
+"Clear list" = "Hapus daftar";
+"(Ask teacher or leave empty)" = "(Tanyakan guru atau biarkan kosong)";
+"email" = "email";
+"Email:" = "Email:";
+"Email does not exist." = "Email tidak ada.";
+"Email already exists." = "Email sudah ada.";
+"Error" = "Error";
+"Password:" = "Kata sandi:";
+"password" = "kata sandi";
+"Password is too short, 8+ characters needed." = "Kata sandi terlalu singkat, diperlukan 8+ karakter.";
+"Please fill in email and password." = "Moho nisi nama pengguna dan kata sandi.";
+"Please fill in your email." = "Mohon isi email Anda.";
+"Please sign up with your email and choose a password." = "Mohon daftar dengan email Anda dan pilih kata sandi.";
+"Class code is not correct, please try again." = "Kode kelas salah, mohon coba lagi.";
+"Profile" = "Profil";
+"Profile updated." = "Profil diperbarui.";
+"Joined class:" = "Bergabung dengan kelas:";
+"Invalid email." = "Email tidak valid.";
+"Log in with email and password." = "Masuk dengan email dan kata sandi.";
+"No internet connection." = "Tidak ada koneksi internet.";
+"Offline" = "Offline";
+"Tasks done" = "Tugas selesai";
+"Success" = "Berhasil";
+"Welcome back" = "Selamat datang kembali";
+"Write your email and we will send you a reset password link." = "Tuliskan email Anda dan kami akan mengirimkan Anda link reset kata sandi.";
+"Wrong password." = "Kata sandi salah.";
+
+// Buttons
+"Account list" = "Daftar akun";
+"Add account" = "Tambahkan akun";
+"Cancel" = "Batalkan";
+"Forgot password?" = "Lupa kata sandi?";
+"Save" = "Simpan";
+"Select account" = "Pilih akun";
+"Sign up" = "Daftar";
+"Tap on your account to log in." = "Tap pada akun Anda untuk masuk.";
+"Highscore" = "Skor tertinggi";
+"hours" = "jam";
+"Log in" = "Masuk";
+"minutes" = "menit";
+"Name:" = "Nama:";
+"OK" = "OK";
+"Choose profile image:" = "Pilih foto profil:";
+"Edit profile" = "Edit profil";
+"Reload" = "Muat ulang";
+"Reset password" = "Reset kata sandi";
+"Skills" = "Kemampuan";
+"Statistics" = "Statistik";
+
+// Name of topics:
+"Addition" = "Tambahan";
+"Algebra" = "Algebra";
+"Alphabet" = "Alfabet";
+"Biology" = "Biologi";
+"Chemistry" = "Kimia";
+"Counting" = "Berhitung";
+"Division" = "Pembagian";
+"Geography" = "Geografi";
+"Geometry" = "Geometri";
+"History" = "Sejarah";
+"Language" = "Bahasa";
+"Multiplication" = "Perkalian";
+"Physics" = "Fisika";
+"Politics" = "Politik";
+"Reading" = "Membaca";
+"Science" = "Ilmu Pengetahuan";
+"Subtraction" = "Pengurangan";
+"Total" = "Total";
+"Writing" = "Menulis";
+
+// New:
+"Decimals" = "Desimal";
+"Wrong, minus one second." = "Salah, minus satu detik.";
+"points" = "poin";
+"New highscore" = "Highscore baru";
+// New:
+"Start" = "Mulai";

@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Kayıtlı tüm hesaplar kaybolacaktır.";
+"API Access Denied." = "API Erişimi Engellendi.";
+"Class code:" = "Sınıf kodu:";
+"Clear list" = "Listeyi temizle";
+"(Ask teacher or leave empty)" = "(Öğretmenden sorun veya boş bırakın)";
+"email" = "e-posta";
+"Email:" = "E-posta:";
+"Email does not exist." = "E-posta yok.";
+"Email already exists." = "E-posta zaten yok.";
+"Error" = "Hata";
+"Password:" = "Parola:";
+"password" = "parola";
+"Password is too short, 8+ characters needed." = "Parola çok kısa, 8+ karakter gerekli.";
+"Please fill in email and password." = "Lütfen kullanıcı adı ve şifreyi doldurunuz.";
+"Please fill in your email." = "E-postanızı doldurunuz.";
+"Please sign up with your email and choose a password." = "Lütfen E-postanız ile kaydolun ve bir şifre seçin.";
+"Class code is not correct, please try again." = "Sınıf kodu doğru değil, lütfen tekrar deneyin.";
+"Profile" = "Profil";
+"Profile updated." = "Profil güncellendi.";
+"Joined class:" = "Sınıf kaydı:";
+"Invalid email." = "Geçersiz e-posta.";
+"Log in with email and password." = "E-posta ve şifre ile giriş yapın.";
+"No internet connection." = "İnternet bağlantısı yok.";
+"Offline" = "Çevrimdışı";
+"Tasks done" = "Görevler yapılır";
+"Success" = "Başarı";
+"Welcome back" = "Tekrar hoşgeldiniz";
+"Write your email and we will send you a reset password link." = "E-postanızı yazın ve sıfırlama için size bir şifre göndereceğiz.";
+"Wrong password." = "Yanlış şifre.";
+
+// Buttons
+"Account list" = "Hesap listesi";
+"Add account" = "Hesap ekle";
+"Cancel" = "İptal";
+"Forgot password?" = "Parolanızı unuttunuzmu?";
+"Save" = "Kaydetmek";
+"Select account" = "Hesap seç";
+"Sign up" = "Kaydol";
+"Tap on your account to log in." = "Oturum açmak için hesabınıza girin.";
+"Highscore" = "Yüksek skor";
+"hours" = "saatler";
+"Log in" = "Oturum aç";
+"minutes" = "dakikalar";
+"Name:" = "Ad:";
+"OK" = "Tamam";
+"Choose profile image:" = "Profil resminizi seçin:";
+"Edit profile" = "Profili Düzenle";
+"Reload" = "Güncelle";
+"Reset password" = "Şifreyi yenile";
+"Skills" = "Beceriler";
+"Statistics" = "İstatistikler";
+
+// Name of topics:
+"Addition" = "İlave";
+"Algebra" = "Cebir";
+"Alphabet" = "Alfabe";
+"Biology" = "Biyoloji";
+"Chemistry" = "Kimya";
+"Counting" = "Sayma";
+"Division" = "Bölünme";
+"Geography" = "Coğrafya";
+"Geometry" = "Geometri";
+"History" = "Geçmiş";
+"Language" = "Dil";
+"Multiplication" = "Çarpma";
+"Physics" = "Fizik";
+"Politics" = "Siyaset";
+"Reading" = "Okuma";
+"Science" = "Bilim";
+"Subtraction" = "Çıkarma";
+"Total" = "Toplam";
+"Writing" = "Yazıyor";
+
+// New:
+"Decimals" = "Basamaklı";
+"Wrong, minus one second." = "Yanlış, bir saniye eksik.";
+"points" = "noktalar";
+"New highscore" = "Yeni rekor";
+// New:
+
+"Start" = "Başlama";

@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.3.0)
+  - KapabelSDK (0.8.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - KapabelSDK
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  KapabelSDK: 43ec76e592cd2d6c53c5f0d0b356d4999a944f51
+
+PODFILE CHECKSUM: 3faef1dc9d80caf950591ebea278f29fda4739a4
+
+COCOAPODS: 1.2.0.rc.1

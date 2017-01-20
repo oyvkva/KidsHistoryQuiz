@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Tutti gli account salvati verranno persi.";
+"API Access Denied." = "Accesso API Negato.";
+"Class code:" = "Codice classe:";
+"Clear list" = "Cancella elenco";
+"(Ask teacher or leave empty)" = "(Chiedi all'insegnante o lascia vuoto)";
+"email" = "email";
+"Email:" = "Email:";
+"Email does not exist." = "Email inesistente.";
+"Email already exists." = "Email già esistente";
+"Error" = "Errore";
+"Password:" = "Password:";
+"password" = "password";
+"Password is too short, 8+ characters needed." = "Password troppo corta, 8+ caratteri necessari.";
+"Please fill in email and password." = "Riempi i campi nome utente e password.";
+"Please fill in your email." = "Riempi il campo email.";
+"Please sign up with your email and choose a password." = "Si prega di registrarsi con la propria email e scegliere una password.";
+"Class code is not correct, please try again." = "Codice classe non corretto, riprova.";
+"Profile" = "Profilo";
+"Profile updated." = "Profilo aggiornato.";
+"Joined class:" = "Unito alla classe:";
+"Invalid email." = "Email non valida.";
+"Log in with email and password." = "Effettua il login con email e password.";
+"No internet connection." = "Nessuna connessione a internet.";
+"Offline" = "Offline";
+"Tasks done" = "Compiti completati";
+"Success" = "Successo";
+"Welcome back" = "Bentornato";
+"Write your email and we will send you a reset password link." = "Inserisci la tua email e ti manderemo un link di reset della password.";
+"Wrong password." = "Password errata.";
+
+// Buttons
+"Account list" = "Lista account";
+"Add account" = "Aggiungi account";
+"Cancel" = "Annulla";
+"Forgot password?" = "Password dimenticata?";
+"Save" = "Salva";
+"Select account" = "Seleziona account";
+"Sign up" = "Registrati";
+"Tap on your account to log in." = "Clicca sul tuo account per effettuare il login.";
+"Highscore" = "Record";
+"hours" = "ore";
+"Log in" = "Login";
+"minutes" = "minuti";
+"Name:" = "Nome:";
+"OK" = "OK";
+"Choose profile image:" = "Scegli immagine del profilo:";
+"Edit profile" = "Modifica profilo";
+"Reload" = "Ricarica";
+"Reset password" = "Resetta password";
+"Skills" = "Abilità";
+"Statistics" = "Statistiche";
+
+// Name of topics:
+"Addition" = "Addizione";
+"Algebra" = "Algebra";
+"Alphabet" = "Alfabeto";
+"Biology" = "Biologia";
+"Chemistry" = "Chimica";
+"Counting" = "Conteggio";
+"Division" = "Divisione";
+"Geography" = "Geografia";
+"Geometry" = "Geometria";
+"History" = "Storia";
+"Language" = "Lingua";
+"Multiplication" = "Moltiplicazione";
+"Physics" = "Fisica";
+"Politics" = "Politica";
+"Reading" = "Lettura";
+"Science" = "Scienze";
+"Subtraction" = "Sottrazione";
+"Total" = "Totale";
+"Writing" = "Scrittura";
+
+// New:
+"Decimals" = "Decimali";
+"Wrong, minus one second." = "Sbagliato, meno di un secondo.";
+"points" = "punti";
+"New highscore" = "Nuovo record";
+// New:
+"Start" = "Inizio";

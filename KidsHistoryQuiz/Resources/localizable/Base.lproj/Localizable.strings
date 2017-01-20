@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "All saved accounts will be lost.";
+"API Access Denied." = "API Access Denied.";
+"Class code:" = "Class code:";
+"Clear list" = "Clear list";
+"(Ask teacher or leave empty)" = "(Ask teacher or leave empty)";
+"email" = "email";
+"Email:" = "Email:";
+"Email does not exist." = "Email does not exist.";
+"Email already exists" = "Email already exists";
+"Error" = "Error";
+"Password:" = "Password:";
+"password" = "password";
+"Password is too short, 8+ characters needed." = "Password is too short, 8+ characters needed.";
+"Please fill in email and password." = "Please fill in email and password.";
+"Please fill in your email." = "Please fill in your email.";
+"Please sign up with your email and choose a password." = "Please sign up with your email and choose a password.";
+"Class code is not correct, please try again." = "Class code is not correct, please try again.";
+"Profile" = "Profile";
+"Profile updated." = "Profile updated.";
+"Joined class:" = "Joined class:";
+"Invalid email." = "Invalid email.";
+"Log in with email and password." = "Log in with email and password.";
+"No internet connection." = "No internet connection.";
+"Offline" = "Offline";
+"Tasks done" = "Tasks done";
+"Success" = "Success";
+"Welcome back" = "Welcome back";
+"Write your email and we will send you a reset password link." = "Write your email and we will send you a reset password link.";
+"Wrong password." = "Wrong password.";
+
+// Buttons
+"Account list" = "Account list";
+"Add account" = "Add account";
+"Cancel" = "Cancel";
+"Forgot password?" = "Forgot password?";
+"Save" = "Save";
+"Select account" = "Select account";
+"Sign up" = "Sign up";
+"Tap on your account to log in." = "Tap on your account to log in.";
+"Highscore" = "Highscore";
+"hours" = "hours";
+"Log in" = "Log in";
+"minutes" = "minutes";
+"Name:" = "Name:";
+"OK" = "OK";
+"Choose profile image:" = "Choose profile image:";
+"Edit profile" = "Edit profile";
+"Reload" = "Reload";
+"Reset password" = "Reset password";
+"Skills" = "Skills";
+"Statistics" = "Statistics";
+
+// Name of topics:
+"Addition" = "Addition";
+"Algebra" = "Algebra";
+"Alphabet" = "Alphabet";
+"Biology" = "Biology";
+"Chemistry" = "Chemistry";
+"Counting" = "Counting";
+"Division" = "Division";
+"Geography" = "Geography";
+"Geometry" = "Geometry";
+"History" = "History";
+"Language" = "Language";
+"Multiplication" = "Multiplication";
+"Physics" = "Physics";
+"Politics" = "Politics";
+"Reading" = "Reading";
+"Science" = "Science";
+"Subtraction" = "Subtraction";
+"Total" = "Total";
+"Writing" = "Writing";
+
+// New:
+"Decimals" = "Decimals";
+"Wrong, minus one second." = "Wrong, minus one second.";
+"points" = "points";
+"New highscore" = "New highscore";
+// New:
+
+"Start" = "Start";

@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Semua akaun yang telah disimpan akan hilang.";
+"API Access Denied." = "Akses API Dihalang.";
+"Class code:" = "Kod kelas:";
+"Clear list" = "Senarai dikosongkan:";
+"(Ask teacher or leave empty)" = "(Tanya cikgu atau biarkan kosong)";
+"email" = "emel";
+"Email:" = "Emel:";
+"Email does not exist." = "Emel tidak wujud.";
+"Email already exists." = "Emel telah pun wujud";
+"Error" = "Ralat";
+"Password:" = "Kata laluan:";
+"password" = "kata laluan";
+"Password is too short, 8+ characters needed." = "Kata laluan terlalu pendek, 8+ aksara diperlukan.";
+"Please fill in email and password." = "Sila isi nama pengguna dan kata laluan.";
+"Please fill in your email." = "Sila masukkan emel anda.";
+"Please sign up with your email and choose a password." = "Sila daftar masuk dengan emel anda dan pilih kata laluan.";
+"Class code is not correct, please try again." = "Kod kelas tidak tepat, sila cuba lagi.";
+"Profile" = "Profil";
+"Profile updated." = "Profil telah dikemaskini.";
+"Joined class:" = "Kelas yang disertai:";
+"Invalid email." = "Emel tidak tepat.";
+"Log in with email and password." = "Log masuk dengan emel dan kata laluan.";
+"No internet connection." = "Tiada sambungan internet.";
+"Offline" = "Luar talian";
+"Tasks done" = "Tugasan selesai";
+"Success" = "Berjaya";
+"Welcome back" = "Selamat kembali";
+"Write your email and we will send you a reset password link." = "Tulis emel anda dan kami akan hantar pautan tetapan semula kata laluan anda.";
+"Wrong password." = "Salah kata laluan.";
+
+// Buttons
+"Account list" = "Senarai akaun";
+"Add account" = "Tambah akaun";
+"Cancel" = "Batal";
+"Forgot password?" = "Terlupa kata laluan?";
+"Save" = "Simpan";
+"Select account" = "Pilih akaun";
+"Sign up" = "Daftar masuk";
+"Tap on your account to log in." = "Sentuh pada akaun anda untuk log masuk.";
+"Highscore" = "Skor tertinggi";
+"hours" = "jam";
+"Log in" = "Log masuk";
+"minutes" = "minit";
+"Name:" = "Nama:";
+"OK" = "OK";
+"Choose profile image:" = "Pilih imej profil:";
+"Edit profile" = "Sunting profil";
+"Reload" = "Tambah nilai";
+"Reset password" = "Tetap semula kata laluan";
+"Skills" = "Kemahiran";
+"Statistics" = "Statistik";
+
+// Name of topics:
+"Addition" = "Tambahan";
+"Algebra" = "Algebra";
+"Alphabet" = "Huruf Abjad";
+"Biology" = "Biologi";
+"Chemistry" = "Kimia";
+"Counting" = "Pengiraan";
+"Division" = "Pembahagian";
+"Geography" = "Geografi";
+"Geometry" = "Geometri";
+"History" = "Sejarah";
+"Language" = "Bahasa";
+"Multiplication" = "Pendaraban";
+"Physics" = "Fizik";
+"Politics" = "Politik";
+"Reading" = "Membaca";
+"Science" = "Sains";
+"Subtraction" = "Penolakan";
+"Total" = "Jumlah";
+"Writing" = "Penulisan";
+
+// New:
+"Decimals" = "Perpuluhan";
+"Wrong, minus one second." = "Salah, tolak satu saat";
+"points" = "mata";
+"New highscore" = "Skor tertinggi baru";
+// New:
+
+"Start" = "Start";

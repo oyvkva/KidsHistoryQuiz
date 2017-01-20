@@ -1,0 +1,57 @@
+###################### More Options ######################
+# If you want to have even more control, check out the documentation
+# https://github.com/fastlane/fastlane/blob/master/deliver/Deliverfile.md
+
+
+###################### Automatically generated ######################
+# Feel free to remove the following line if you use fastlane (which you should)
+
+username "oyvind@kvanes.no" # your Apple ID user
+
+automatic_release true
+
+force true
+
+app_icon './fastlane/AppIcon.png'
+
+price_tier 2
+
+app_rating_config_path './fastlane/rating.json'
+
+primary_category "Education"
+
+secondary_category "Games"
+secondary_first_sub_category "Educational"
+secondary_second_sub_category "Family"
+
+copyright "#{Time.now.year} Kvanes AS"
+
+app_review_information(
+  first_name: "Oyvind",
+  last_name: "Kvanes",
+  phone_number: "+47 416 89806",
+  email_address: "oyvind@kvanes.no",
+  demo_user: "a@a.a",
+  demo_password: "12345678",
+  notes: "Note about the Kapabel accounts as I got asked about this previously:
+
+Does your app access any paid content or services?
+No, there is no paid content or services.
+
+How do users obtain a code and what does it provide?
+Users would have to contact their teachers to get a code. The teachers would have to get a code from us. It is a way for students to join their class.
+
+Is there any costs associated with the code?
+No, there are no costs. You can use this code if you wish to test it out: wone
+
+Note about Parental Gate:
+
+It is turned on by default and parents have to solve the code before kids are allowed to create accounts. Once they have created accounts they can log in and play the game.
+
+If parents log them out they are able to switch accounts as long as the UI is open, say if there are two kids sharing the same iPads.
+
+If the UI is closed with noone logged in, parental lock is turned on again."
+)
+
+
+

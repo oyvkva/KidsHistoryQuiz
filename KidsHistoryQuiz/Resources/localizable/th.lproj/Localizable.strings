@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "บัญชีที่บันทึกไว้ทั้งหมดจะหายไป";
+"API Access Denied." = "การเข้า API ถูกปฏิเสธ";
+"Class code:" = "รหัสชั้นเรียน:";
+"Clear list" = "ล้างรายการ";
+"(Ask teacher or leave empty)" = "(ถามครูหรือปล่อยว่างไว้)";
+"email" = "อีเมล";
+"Email:" = "อีเมล";
+"Email does not exist." = "ไม่พบอีเมล";
+"Email already exists." = "อีเมลมีอยู่แล้ว";
+"Error" = "ข้อผิดพลาด";
+"Password:" = "รหัสผ่าน:";
+"password" = "รหัสผ่าน";
+"Password is too short, 8+ characters needed." = "รหัสผ่านสั้นเกินไป ต้องใส่ตัวอักษรอย่างน้อย 8 ตัว";
+"Please fill in email and password." = "กรุณากรอกชื่อผู้ใช้และรหัสผ่าน";
+"Please fill in your email." = "กรุณากรอกอีเมลของคุณ";
+"Please sign up with your email and choose a password." = "กรุณาลงทะเบียนโดยใช้อีเมลของคุณและเลือกรหัสผ่าน";
+"Class code is not correct, please try again." = "รหัสชั้นเรียนไม่ถูกต้อง กรุณาลองอีกครั้ง";
+"Profile" = "โปรไฟล์";
+"Profile updated." = "โปรไฟล์ที่อัพเดท";
+"Joined class:" = "ร่วมชั้นเรียน:";
+"Invalid email." = "อีเมลไม่ถูกต้อง";
+"Log in with email and password." = "เข้าสู่ระบบด้วยอีเมลและรหัสผ่าน";
+"No internet connection." = "ไม่มีการเชื่อมต่ออินเทอร์เน็ต";
+"Offline" = "ออฟไลน์";
+"Tasks done" = "งานที่ทำเสร็จ";
+"Success" = "ความสำเร็จ";
+"Welcome back" = "ยินดีต้อนรับการกลับมา";
+"Write your email and we will send you a reset password link." = "ระบุอีเมลของคุณและเราจะส่งลิงค์รีเซ็ตรหัสผ่านไปให้";
+"Wrong password." = "รหัสผ่านไม่ถูกต้อง";
+
+// Buttons
+"Account list" = "รายการบัญชี";
+"Add account" = "เพิ่มบัญชี";
+"Cancel" = "ยกเลิก";
+"Forgot password?" = "ลืมรหัสผ่าน?";
+"Save" = "บันทึก";
+"Select account" = "เลือกบัญชี";
+"Sign up" = "ลงทะเบียน";
+"Tap on your account to log in." = "แตะเพื่อเข้าสู่ระบบบัญชีของคุณ";
+"Highscore" = "คะแนนสูง";
+"hours" = "ชั่วโมง";
+"Log in" = "เข้าสู่ระบบ";
+"minutes" = "นาที";
+"Name:" = "ชื่อ:";
+"OK" = "ตกลง";
+"Choose profile image:" = "เลือกภาพโปรไฟล์";
+"Edit profile" = "แก้ไขโปรไฟล์";
+"Reload" = "ใส่เพิ่ม";
+"Reset password" = "รีเซ็ตรหัสผ่าน";
+"Skills" = "ทักษะ";
+"Statistics" = "สถิติ";
+
+// Name of topics:
+"Addition" = "การบวก";
+"Algebra" = "พีชคณิต";
+"Alphabet" = "ตัวอักษร";
+"Biology" = "ชีววิทยา";
+"Chemistry" = "เคมี";
+"Counting" = "การนับ";
+"Division" = "การหาร";
+"Geography" = "ภูมิศาสตร์";
+"Geometry" = "เรขาคณิต";
+"History" = "ประวัติศาสตร์";
+"Language" = "ภาษา";
+"Multiplication" = "การคูณ";
+"Physics" = "ฟิสิกส์";
+"Politics" = "การเมือง";
+"Reading" = "การอ่าน";
+"Science" = "วิทยาศาสตร์";
+"Subtraction" = "การลบ";
+"Total" = "ทั้งหมด";
+"Writing" = "การเขียน";
+
+// New:
+"Decimals" = "ทศนิยม";
+"Wrong, minus one second." = "ผิด ลบหนึ่งวินาที";
+"points" = "คะแนน";
+"New highscore" = "คะแนนสูงสุดใหม่";
+// New:
+
+"Start" = "เริ่มต้น";

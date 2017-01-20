@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Tous les comptes sauvegardés seront oubliés.";
+"API Access Denied." = "Accès API refusé.";
+"Class code:" = "Code de classe:";
+"Clear list" = "Effacer la liste ";
+"(Ask teacher or leave empty)" = "(ADemander au professeur ou laisser vide)";
+"email" = "email";
+"Email:" = "Email:";
+"Email does not exist." = "Email n’existe pas.";
+"Email already exists" = "Email existe déjà";
+"Error" = "Erreur";
+"Password:" = "Mot de passe:";
+"password" = "passe";
+"Password is too short, 8+ characters needed." = "Mot de passe trop court 8 caractères minimum.";
+"Please fill in email and password." = "Saisissez le nom d’utilisateur et le mot de passe.";
+"Please fill in your email." = "Saisissez votre email.";
+"Please sign up with your email and choose a password." = "Inscrivez-vous avec votre email et choisissez un mot de passe.";
+"Class code is not correct, please try again." = "Le code de classe est incorrect, veuillez ressayer à nouveau.";
+"Profile" = "Profil";
+"Profile updated." = "Mis à jour du profil.";
+"Joined class:" = "Classe rejoint:";
+"Invalid email." = "Email invalide.";
+"Log in with email and password." = "Connectez-vous avec votre email et mot de passe.";
+"No internet connection." = "Pas de connexion internet.";
+"Offline" = "Hors ligne";
+"Tasks done" = "Tâches effectuées";
+"Success" = "Succès";
+"Welcome back" = "Bienvenue";
+"Write your email and we will send you a reset password link." = "Saisissez votre email et nous vous enverrons un lien pour réinitialiser votre mot de passe.";
+"Wrong password." = "Mot de passe incorrecte.";
+
+// Buttons
+"Account list" = "Liste des comptes";
+"Add account" = "Ajouter un compte";
+"Cancel" = "Annuler";
+"Forgot password?" = "Mot de passe oublié?";
+"Save" = "Enregistrer";
+"Select account" = "Choisissez un compte";
+"Sign up" = "Inscrivez-vous";
+"Tap on your account to log in." = "Cliquez sur votre compte pour vous connecter.";
+"Highscore" = "Meilleur score";
+"hours" = "heures";
+"Log in" = "Se connecter";
+"minutes" = "minutes";
+"Name:" = "Nom:";
+"OK" = "OK";
+"Choose profile image:" = "Choisissez votre photo de profile:";
+"Edit profile" = "Modifier votre profile";
+"Reload" = "Actualiser";
+"Reset password" = "Réinitialisez votre mot de passe";
+"Skills" = "Compétences";
+"Statistics" = "Statistiques";
+
+// Name of topics:
+"Addition" = "Addition";
+"Algebra" = "Algèbre";
+"Alphabet" = "Alphabets";
+"Biology" = "Biologie";
+"Chemistry" = "Chimie";
+"Counting" = "Calcul";
+"Division" = "Division";
+"Geography" = "Géographie";
+"Geometry" = "Géométrie";
+"History" = "Histoire";
+"Language" = "Langues";
+"Multiplication" = "Multiplications";
+"Physics" = "Physique";
+"Politics" = "Politique";
+"Reading" = "Lecture";
+"Science" = "Science";
+"Subtraction" = "Soustraction";
+"Total" = "Total";
+"Writing" = "Ecriture";
+
+// New:
+"Decimals" = "Décimale";
+"Wrong, minus one second." = "Faux, moins une seconde.";
+"points" = "points";
+"New highscore" = "Nouveau meilleur score";
+// New:
+
+"Start" = "Démarrer";

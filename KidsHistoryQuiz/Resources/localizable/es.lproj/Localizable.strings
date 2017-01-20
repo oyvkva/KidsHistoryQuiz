@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Todas las cuentas guardadas se perderán.";
+"API Access Denied." = "Acceso API negado.";
+"Class code:" = "Código de clase:";
+"Clear list" = "Borrar lista";
+"(Ask teacher or leave empty)" = "(Pregúntale al profesor o déjalo vacío)";
+"email" = "correo electrónico";
+"Email:" = "Correo electrónico:";
+"Email does not exist." = "El correo electrónico no existe.";
+"Email already exists." = "El correo electrónico ya existe.";
+"Error" = "Error";
+"Password:" = "Contraseña:";
+"password" = "contraseña";
+"Password is too short, 8+ characters needed." = "La contraseña es muy corta, son necesarios +8 caracteres.";
+"Please fill in email and password." = "Por favor llene el nombre de usuario y contraseña.";
+"Please fill in your email." = "Por favor llene su correo electrónico.";
+"Please sign up with your email and choose a password." = "Por favor regístrese con su correo electrónico y elija una contraseña.";
+"Class code is not correct, please try again." = "El código de clase no es correcto, por favor inténtelo de nuevo.";
+"Profile" = "Perfil";
+"Profile updated." = "Perfil actualizado.";
+"Joined class:" = "Se unió a la clase:";
+"Invalid email." = "Código electrónico inválido.";
+"Log in with email and password." = "Inicie sesión con su correo electrónico y contraseña.";
+"No internet connection." = "Sin conexión a Internet.";
+"Offline" = "Fuera de línea";
+"Tasks done" = "Tarea terminada";
+"Success" = "Éxito";
+"Welcome back" = "Bienvenido de vuelta";
+"Write your email and we will send you a reset password link." = "Escriba su correo electrónico y nosotros le enviaremos un enlace de reinicio de contraseña.";
+"Wrong password." = "Contraseña incorrecta.";
+
+// Buttons
+"Account list" = "Lista de cuentas";
+"Add account" = "Agregar cuenta";
+"Cancel" = "Cancelar";
+"Forgot password?" = "¿Olvidó su contraseña?";
+"Save" = "Guardar";
+"Select account" = "Seleccionar cuenta";
+"Sign up" = "Registrarse";
+"Tap on your account to log in." = "Presione su cuenta para iniciar sesión.";
+"Highscore" = "Mejor puntuación";
+"hours" = "horas";
+"Log in" = "Iniciar sesión";
+"minutes" = "minutos";
+"Name:" = "Nombre:";
+"OK" = "OK";
+"Choose profile image:" = "Elegir imagen de perfil:";
+"Edit profile" = "Editar perfil";
+"Reload" = "Recargar";
+"Reset password" = "Reiniciar contraseña";
+"Skills" = "Habilidades";
+"Statistics" = "Estadísticas";
+
+// Name of topics:
+"Addition" = "Adición";
+"Algebra" = "Algebra";
+"Alphabet" = "Alfabeto";
+"Biology" = "Biología";
+"Chemistry" = "Química";
+"Counting" = "Cálculo";
+"Division" = "División";
+"Geography" = "Geografía";
+"Geometry" = "Geometría";
+"History" = "Historia";
+"Language" = "Lengua";
+"Multiplication" = "Multiplicación";
+"Physics" = "Física";
+"Politics" = "Política";
+"Reading" = "Lectura";
+"Science" = "Ciencia";
+"Subtraction" = "Sustracción";
+"Total" = "Total";
+"Writing" = "Escritura";
+
+// New:
+"Decimals" = "Decimales";
+"Wrong, minus one second." = "Incorrecto, menos un segundo.";
+"points" = "puntos";
+"New highscore" = "Nueva mejor puntuación";
+// New:
+"Start" = "Comienzo";

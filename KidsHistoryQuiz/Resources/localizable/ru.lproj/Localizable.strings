@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Все сохраненные учетные записи будут утеряны.";
+"API Access Denied." = "Доступ к API запрещен.";
+"Class code:" = "Код группы:";
+"Clear list" = "Очистить список";
+"(Ask teacher or leave empty)" = "(Спросите учителя или не заполняйте)";
+"email" = "эл. почта";
+"Email:" = "Эл. почта:";
+"Email does not exist." = "Указанный адрес не существует.";
+"Email already exists." = "Указанный адрес уже существует";
+"Error" = "Ошибка";
+"Password:" = "Пароль:";
+"password" = "пароль";
+"Password is too short, 8+ characters needed." = "Слишком короткий пароль, используйте не менее 8 символов.";
+"Please fill in email and password." = "Пожалуйста, укажите имя пользователя и пароль.";
+"Please fill in your email." = "Пожалуйста, укажите адрес вашей эл. почты.";
+"Please sign up with your email and choose a password." = "Пожалуйста, зарегистрируйтесь, используя адрес вашей эл. почты и выберите пароль.";
+"Class code is not correct, please try again." = "Код группы указан неправильно, пожалуйста, попробуйте еще раз.";
+"Profile" = "Профиль";
+"Profile updated." = "Профиль обновлен.";
+"Joined class:" = "Присоединился к группе:";
+"Invalid email." = "Недействительный адрес эл. почты.";
+"Log in with email and password." = "Войдите, используя адрес эл. почты и пароль.";
+"No internet connection." = "Нет подключения к сети интернет.";
+"Offline" = "Не в сети";
+"Tasks done" = "Выполненные задания";
+"Success" = "Успешно";
+"Welcome back" = "Рады видеть вас снова";
+"Write your email and we will send you a reset password link." = "Укажите адрес вашей эл. почты и мы отправим вам ссылку для сброса пароля.";
+"Wrong password." = "Неправильный пароль.";
+
+// Buttons
+"Account list" = "Список учетных записей";
+"Add account" = "Добавить учетную запись";
+"Cancel" = "Отмена";
+"Forgot password?" = "Забыли пароль?";
+"Save" = "Сохранить";
+"Select account" = "Выберите учетную запись";
+"Sign up" = "Регистрация";
+"Tap on your account to log in." = "Нажмите на вашу учетную запись, чтобы войти.";
+"Highscore" = "Лучшие результаты";
+"hours" = "часов";
+"Log in" = "Войти";
+"minutes" = "минут";
+"Name:" = "Имя:";
+"OK" = "OK";
+"Choose profile image:" = "Выберите изображение профиля:";
+"Edit profile" = "Редактировать профиль";
+"Reload" = "Обновить";
+"Reset password" = "Сбросить пароль";
+"Skills" = "Навыки";
+"Statistics" = "Статистика";
+
+// Name of topics:
+"Addition" = "Сложение";
+"Algebra" = "Алгебра";
+"Alphabet" = "Алфавит";
+"Biology" = "Биология";
+"Chemistry" = "Химия";
+"Counting" = "Счёт";
+"Division" = "Деление";
+"Geography" = "География";
+"Geometry" = "Геометрия";
+"History" = "История";
+"Language" = "Язык";
+"Multiplication" = "Умножение";
+"Physics" = "Физика";
+"Politics" = "Политика";
+"Reading" = "Чтение";
+"Science" = "Наука";
+"Subtraction" = "Вычитание";
+"Total" = "Всего";
+"Writing" = "Письмо";
+
+// New:
+"Decimals" = "Десятичные";
+"Wrong, minus one second." = "Неправильно. Минус одна секунда.";
+"points" = "баллов";
+"New highscore" = "Новый рекорд";
+// New:
+"Start" = "Начало";

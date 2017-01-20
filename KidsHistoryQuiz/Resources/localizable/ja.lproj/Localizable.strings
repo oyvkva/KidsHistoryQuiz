@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "すべての保存されたアカウントは失われます。";
+"API Access Denied." = "API へのアクセスが拒否されました。";
+"Class code:" = "クラスのコード:」";
+"Clear list" = "一覧のクリア";
+"(Ask teacher or leave empty)" = "(先生に尋ねなさいまたは空白のまま)」";
+"email" = "メール」";
+"Email:" = "電子メール:";
+"Email does not exist." = "メールがありません」.";
+"Email already exists." = "既に e メール存在」";
+"Error" = "「エラー」";
+"Password:" = "パスワード:";
+"password" = "パスワード」";
+"Password is too short, 8+ characters needed." = "パスワードが短すぎる、8 + 文字必要です。";
+"Please fill in email and password." = "ユーザー名とパスワードを入力してください。」";
+"Please fill in your email." = "あなたのメール アドレスにご記入ください」";
+"Please sign up with your email and choose a password." = "くださいサインアップあなたのメール アドレスとパスワードを選択」。";
+"Class code is not correct, please try again." = "クラスのコードが正しくありません、もう一度やり直してください」";
+"Profile" = "プロフィール」";
+"Profile updated." = "プロフィール更新」。";
+"Joined class:" = "クラスに参加しました:";
+"Invalid email." = "無効なメール」";
+"Log in with email and password." = "メール アドレスとパスワードでログインします。";
+"No internet connection." = "いいえ、インターネット接続。";
+"Offline" = "オフライン」";
+"Tasks done" = "タスク完了」";
+"Success" = "「成功」";
+"Welcome back" = "「おかえりなさい」";
+"Write your email and we will send you a reset password link." = "「あなたのメール アドレス書くと、パスワード リセット リンクが送信されます。";
+"Wrong password." = "間違ったパスワード」";
+
+// Buttons
+"Account list" = "アカウント一覧」";
+"Add account" = "アカウントをを追加」";
+"Cancel" = "キャンセル」";
+"Forgot password?" = "「パスワードをを忘れた方」";
+"Save" = "「保存」";
+"Select account" = "「選択口座」";
+"Sign up" = "「サインアップ」";
+"Tap on your account to log in." = "「ログインするアカウントをタップします。」";
+"Highscore" = "「ハイスコア」";
+"hours" = "  時間";
+"Log in" = "「ログイン」";
+"minutes" = "「分」";
+"Name:" = "名前:";
+"OK" = "OK";
+"Choose profile image:" = "「プロファイル ・ イメージを選択:";
+"Edit profile" = "「プロファイルをを編集」";
+"Reload" = "「リロード」";
+"Reset password" = "「パスワードのリセット」";
+"Skills" = "「スキル」";
+"Statistics" = "「統計」";
+
+// Name of topics:
+"Addition" = "「加算」";
+"Algebra" = "「代数」";
+"Alphabet" = "「アルファベット」";
+"Biology" = "「生物学」";
+"Chemistry" = "「化学」";
+"Counting" = "「カウント」";
+"Division" = "  部門";
+"Geography" = "「地理」";
+"Geometry" = "「幾何学」";
+"History" = "「歴史」";
+"Language" = "「言語」";
+"Multiplication" = "「乗算」";
+"Physics" = "「物理学」";
+"Politics" = "「政治」";
+"Reading" = "「読書」";
+"Science" = "「科学」";
+"Subtraction" = "「減算」";
+"Total" = "「合計」";
+"Writing" = "書き込み";
+
+// New:
+"Decimals" = "小数";
+"Correct!" = "Riktig!";
+"Wrong, minus one second." = "間違って、1 秒マイナス。";
+"points" = "「ポイント」";
+"New highscore" = "「新しいハイスコア」";
+"Start" = "開始";

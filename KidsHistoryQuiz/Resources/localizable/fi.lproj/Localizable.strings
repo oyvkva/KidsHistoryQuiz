@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Kaikki tallennetut tilit poistetaan.";
+"API Access Denied." = "API Pääsy Kielletty.";
+"Class code:" = "Luokkakoodi:";
+"Clear list" = "Tyhjennä lista";
+"(Ask teacher or leave empty)" = "(Kysy opettajalta tai jätä tyhjäksi)";
+"email" = "sähköposti";
+"Email:" = "Sähköposti:";
+"Email does not exist." = "Sähköposti ei ole olemassa.";
+"Email already exists." = "Sähköposti on jo olemassa.";
+"Error" = "Virhe";
+"Password:" = "Salasana:";
+"password" = "salasana";
+"Password is too short, 8+ characters needed." = "Salasana on liian lyhyt, tarvitaan 8+ merkkiä.";
+"Please fill in email and password." = "Anna käyttäjänimi ja salasana.";
+"Please fill in your email." = "Anna sähköpostisi.";
+"Please sign up with your email and choose a password." = "Kirjaudu sisään sähköpostillasi ja valitse salasana.";
+"Class code is not correct, please try again." = "Luokkakoodi ei ole oikea, yritä uudelleen.";
+"Profile" = "Profiili";
+"Profile updated." = "Profiili päivetty.";
+"Joined class:" = "Liittyi luokkaan:";
+"Invalid email." = "Kelpaamaton sähköposti.";
+"Log in with email and password." = "Kirjaudu sisään sähköpostilla ja salasanalla.";
+"No internet connection." = "Ei internet-yhteyttä.";
+"Offline" = "Offline";
+"Tasks done" = "Tehtävät tehty";
+"Success" = "Valmis";
+"Welcome back" = "Tervetuloa takaisin";
+"Write your email and we will send you a reset password link." = "Kirjoita sähköpostisi ja lähetämme sinulle linkin salasanan palautusta varten.";
+"Wrong password." = "Väärä salasana.";
+
+// Buttons
+"Account list" = "Tililista";
+"Add account" = "Lisää tili";
+"Cancel" = "Peruuta";
+"Forgot password?" = "Unohtuiko salasana?";
+"Save" = "Tallenna";
+"Select account" = "Valitse tili";
+"Sign up" = "Ilmoittaudu";
+"Tap on your account to log in." = "Klikkaa tiliäsi ja kirjaudu sisään.";
+"Highscore" = "Ennätyspistemäärä";
+"hours" = "tuntia";
+"Log in" = "Kirjaudu sisään";
+"minutes" = "minuuttia";
+"Name:" = "Nimi:";
+"OK" = "OK";
+"Choose profile image:" = "Valitse profiilikuva:";
+"Edit profile" = "Muokkaa profiilia";
+"Reload" = "Lataa uudelleen";
+"Reset password" = "Vaihda salasana";
+"Skills" = "Taidot";
+"Statistics" = "Tilastot";
+
+// Name of topics:
+"Addition" = "Lisäys";
+"Algebra" = "Algebra";
+"Alphabet" = "Aakkoset";
+"Biology" = "Biologia";
+"Chemistry" = "Kemia";
+"Counting" = "Laskeminen";
+"Division" = "Jakaminen";
+"Geography" = "Maantiede";
+"Geometry" = "Geometria";
+"History" = "Historia";
+"Language" = "Kielet";
+"Multiplication" = "Kertolaskut";
+"Physics" = "Fysiikka";
+"Politics" = "Politiikka";
+"Reading" = "Lukeminen";
+"Science" = "Tiede";
+"Subtraction" = "Vähennyslaskut";
+"Total" = "Yhteensä";
+"Writing" = "Kirjoittaminen";
+
+// New:
+"Decimals" = "Desimaalia";
+"Wrong, minus one second." = "Väärä, miinus yksi sekunti.";
+"points" = "pistettä";
+"New highscore" = "Uusi huipputulos";
+// New:
+
+"Start" = "alku";

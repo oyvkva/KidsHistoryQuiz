@@ -1,0 +1,6 @@
+framework module KapabelSDK {
+  umbrella header "KapabelSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

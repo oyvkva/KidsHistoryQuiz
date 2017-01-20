@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "所有储存帐号将会遗失。";
+"API Access Denied." = "不可进入API";
+"Class code:" = "仓等代码";
+"Clear list" = "清单";
+"(Ask teacher or leave empty)" = "问老师或留空白";
+"email" = "电邮";
+"Email:" = "电邮";
+"Email does not exist." = "电邮不存在";
+"Email already exists." = "电邮已经存在";
+"Error" = "错误";
+"Password:" = "密码";
+"password" = "密码";
+"Password is too short, 8+ characters needed." = "密码太短，最少8个字";
+"Please fill in email and password." = "请填入用户名与密码";
+"Please fill in your email." = "请填入电邮地址";
+"Please sign up with your email and choose a password." = "用电邮登入选择密码";
+"Class code is not correct, please try again." = "仓等代码不对，请再试。";
+"Profile" = "个人资料";
+"Profile updated." = "个人资料更新";
+"Joined class:" = "已经加入课程";
+"Invalid email." = "电邮无效";
+"Log in with email and password." = "用电邮与密码登入";
+"No internet connection." = "没有网络";
+"Offline" = "下线";
+"Tasks done" = "已完成任务";
+"Success" = "成功";
+"Welcome back" = "欢迎回来";
+"Write your email and we will send you a reset password link." = "输入电邮然后我们会发送重置密码链接";
+"Wrong password." = "密码错误";
+
+// Buttons
+"Account list" = "帐户单子";
+"Add account" = "添加户口";
+"Cancel" = "取消";
+"Forgot password?" = "忘记密码";
+"Save" = "储存";
+"Select account" = "选择户口";
+"Sign up" = "加入";
+"Tap on your account to log in." = "按户口登入";
+"Highscore" = "高分";
+"hours" = "小时";
+"Log in" = "登入";
+"minutes" = "分钟";
+"Name:" = "名字";
+"OK" = "可以";
+"Choose profile image:" = "选择个人照片";
+"Edit profile" = "编辑个人资料";
+"Reload" = "刷新";
+"Reset password" = "重新设置密码";
+"Skills" = "技能";
+"Statistics" = "数据";
+
+// Name of topics:
+"Addition" = "添加";
+"Algebra" = "代数";
+"Alphabet" = "字母";
+"Biology" = "生物学";
+"Chemistry" = "化学";
+"Counting" = "算数";
+"Division" = "分行";
+"Geography" = "地理";
+"Geometry" = "几何学";
+"History" = "历史";
+"Language" = "语言";
+"Multiplication" = "乘法";
+"Physics" = "物理学";
+"Politics" = "政治";
+"Reading" = "阅读";
+"Science" = "科学";
+"Subtraction" ="加减学";
+"Total" = "总共";
+"Writing" = "写字";
+
+// New:
+"Decimals" = "点数";
+"Wrong, minus one second." = "错，扣一秒";
+"points" = "分数";
+"New highscore" = "新高分";
+// New:
+
+"Start" = "开始";

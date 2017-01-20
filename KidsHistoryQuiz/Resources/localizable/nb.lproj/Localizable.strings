@@ -1,0 +1,83 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Alle konti vil bli fjernet.";
+"API Access Denied." = "Ingen API-tilgang.";
+"Class code:" = "Klassekode:";
+"Clear list" = "Tøm liste";
+"(Ask teacher or leave empty)" = "(Spør lærer eller la være tom)";
+"email" = "epost";
+"Email:" = "E-post";
+"Email does not exist." = "E-mail eksisterer ikke.";
+"Email already exists" = "E-mail eksisterer fra før.";
+"Error" = "Feil";
+"Password:" = "Passord:";
+"password" = "passord";
+"Password is too short, 8+ characters needed." = "Passordet er for kort, minimum 8 tegn.";
+"Please fill in email and password." = "Vennligst fyll inn e-post og passord.";
+"Please fill in your email." = "Vennligst fyll inn e-post.";
+"Please sign up with your email and choose a password." = "Meld deg inn med e-post og passord.";
+"Class code is not correct, please try again." = "Klassekoden er feil, prøv igjen.";
+"Profile" = "Profil";
+"Profile updated." = "Profil oppdatert.";
+"Joined class:" = "Meldte deg inn i:";
+"Invalid email." = "Ugyldig e-post.";
+"Log in with email and password." = "Logg inn med e-post og passord.";
+"No internet connection." = "Ingen internettforbindelse";
+"Offline" = "Offline";
+"Tasks done" = "Oppgaver";
+"Success" = "Suksess";
+"Welcome back" = "Velkommen tilbake";
+"Write your email and we will send you a reset password link." = "Skriv inn din e-post så sender vi deg en link med nytt passord.";
+"Wrong password." = "Galt passord.";
+
+// Buttons
+"Account list" = "Kontoliste";
+"Add account" = "Legg til konto";
+"Cancel" = "Avbryt";
+"Forgot password?" = "Glemt passord?";
+"Save" = "Lagre";
+"Select account" = "Velg konto";
+"Sign up" = "Meld deg inn";
+"Tap on your account to log in." = "Trykk på din konto for å logge inn.";
+"Highscore" = "Highscore";
+"hours" = "timer";
+"Log in" = "Logg inn";
+"minutes" = "minutter";
+"Name:" = "Navn:";
+"OK" = "OK";
+"Choose profile image:" = "Velg profilbilde:";
+"Edit profile" = "Endre profil";
+"Reload" = "Last på nytt";
+"Reset password" = "Reset passord";
+"Skills" = "Ferdigheter";
+"Statistics" = "Statistikk";
+
+// Name of topics:
+
+"Addition" = "Pluss";
+"Alphabet" = "Alfabetet";
+"Algebra" = "Algebra";
+"Biology" = "Biologi";
+"Chemistry" = "Kjemi";
+"Counting" = "Telling";
+"Division" = "Divisjon";
+"Geography" = "Geografi";
+"Geometry" = "Geometri";
+"History" = "Historie";
+"Language" = "Språk";
+"Multiplication" = "Multiplikasjon";
+"Physics" = "Fysikk";
+"Politics" = "Politikk";
+"Reading" = "Lesing";
+"Science" = "Vitenskap";
+"Subtraction" = "Subtraksjon";
+"Total" = "Totalt";
+"Writing" = "Skriving";
+
+// New:
+"Decimals" = "Desimaltall";
+"Wrong, minus one second." = "Galt, minus ett sekund.";
+"Correct!" = "Riktig!";
+"points" = "poeng";
+"New highscore" = "Ny highscore";
+
+"Start" = "Start";

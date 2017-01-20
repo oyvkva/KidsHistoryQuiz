@@ -1,0 +1,81 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "저장된 모든 계정이 삭제됩니다.";
+"API Access Denied." = "API 액세스가 거부되었습니다.";
+"Class code:" = "수업 코드:";
+"Clear list" = "목록 삭제";
+"(Ask teacher or leave empty)" = "(선생님에게 질문 또는 칸 비워 놓기)";
+"email" = "이메일";
+"Email:" = "이메일:";
+"Email does not exist." = "이메일이 존재하지 않습니다.";
+"Email already exists." = "이메일이 이미 존재합니다.";
+"Error" = "오류";
+"Password:" = "비밀번호:";
+"password" = "비밀번호";
+"Password is too short, 8+ characters needed." = "비밀번호가 너무 짧습니다. 8자 이상 입력해야 합니다.";
+"Please fill in email and password." = "사용자 이름 및 비밀번호를 입력하세요.";
+"Please fill in your email." = "이메일 주소를 입력하세요.";
+"Please sign up with your email and choose a password." = "이메일을 이용하여 가입한 뒤 비밀번호를 선택해주세요.";
+"Class code is not correct, please try again." = "수업 코드가 잘못되었습니다. 다시 시도해주세요.";
+"Profile" = "프로필";
+"Profile updated." = "프로필이 업데이트되었습니다.";
+"Joined class:" = "참여한 수업:";
+"Invalid email." = "이메일이 잘못되었습니다.";
+"Log in with email and password." = "이메일 주소와 비밀번호를 입력하여 로그인하세요.";
+"No internet connection." = "인터넷에 연결되지 않았습니다.";
+"Offline" = "오프라인";
+"Tasks done" = "완료한 작업";
+"Success" = "성공";
+"Welcome back" = "다시 오신 것을 환영합니다";
+"Write your email and we will send you a reset password link." = "이메일 주소를 입력하면 비밀번호 재설정 링크를 전송해드리겠습니다.";
+"Wrong password." = "비밀번호가 잘못되었습니다.";
+
+// Buttons
+"Account list" = "계정 목록";
+"Add account" = "계정 추가";
+"Cancel" = "취소";
+"Forgot password?" = "비밀번호를 잊으셨나요?";
+"Save" = "저장";
+"Select account" = "계정 선택";
+"Sign up" = "가입";
+"Tap on your account to log in." = "로그인하려면 계정을 누르세요.";
+"Highscore" = "최고 점수";
+"hours" = "시간";
+"Log in" = "로그인";
+"minutes" = "분";
+"Name:" = "이름:";
+"OK" = "확인";
+"Choose profile image:" = "프로필 이미지를 선택해주세요";
+"Edit profile" = "프로필 수정";
+"Reload" = "새로 고침";
+"Reset password" = "비밀번호 재설정";
+"Skills" = "기술";
+"Statistics" = "통계";
+
+// Name of topics:
+"Addition" = "더하기";
+"Algebra" = "대수학";
+"Alphabet" = "알파벳";
+"Biology" = "생물학";
+"Chemistry" = "화학";
+"Counting" = "계산";
+"Division" = "나누기";
+"Geography" = "지리학";
+"Geometry" = "기하학";
+"History" = "역사";
+"Language" = "언어";
+"Multiplication" = "곱하기";
+"Physics" = "물리학";
+"Politics" = "정치";
+"Reading" = "독서";
+"Science" = "과학";
+"Subtraction" = "뺄셈";
+"Total" = "합계";
+"Writing" = "쓰기";
+
+// New:
+"Decimals" = "수소";
+"Wrong, minus one second." = "정답이 아닙니다. 1초가 감소되었습니다.";
+"points" = "점수";
+"New highscore" = "새로운 최고 점수";
+// New:
+"Start" = "스타트";

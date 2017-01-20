@@ -1,0 +1,813 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		10EB23E9ECC4B33E16933BB1EA560B6A /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8A043BE9361B178A3DDB1D11EE43BE /* Timeline.swift */; };
+		144F3FEA1CAAD60E8BCF2E7517E7F5E9 /* KapabelToastManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2F560AAE912FD66ED6DCDAD10BC96C /* KapabelToastManager.swift */; };
+		1B9EDEDC964E6B08F78920B4F4B9DB84 /* Alamofire-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D098537DE2F71CA8CE42D99E60F01D5D /* Alamofire-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1D62478348CF060273BE11A6748B4C4A /* KapabelSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D66DC3F1242BD44377278F74521A3A1 /* KapabelSDK-dummy.m */; };
+		2851F7CFC55CF62DFEB0E92BA0E99987 /* KapabelGlobals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DEAA09C31B6CB3DC86E26E0731DC66 /* KapabelGlobals.swift */; };
+		2DD9E5D214D12AFDAEA2EE6E041C7F8C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F9B2E024A80A62FE090406312870D33 /* Foundation.framework */; };
+		3626B94094672CB1C9DEA32B9F9502E1 /* TaskDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB05AC2334C0D4B1D3F6296AC4B25DA /* TaskDelegate.swift */; };
+		397230E678FB36A8EF8EB3E62216E41A /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 706C7AFFE37BA158C3553250F4B5FAED /* Alamofire.framework */; };
+		3A8722D0A375709E16DA7571D188A98B /* KapabelTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = E682EE6E39515C6656A260179DB62C13 /* KapabelTask.swift */; };
+		3D73989C9972A5C36FDDE96F0E50AB29 /* KapabelUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC118720DF8E6249DA7FDAC8DBB42D8B /* KapabelUser.swift */; };
+		5387216E723A3C68E851CA15573CDD71 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AB412F4D37783BF75B72DEC3B5649F /* Request.swift */; };
+		60B16B04D0005A10F9F3390C9C3CC3BC /* KapabelSDK-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D7B5EA4517895BF2344C9A921E3BDEE6 /* KapabelSDK-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		61200D01A1855D7920CEF835C8BE00B0 /* DispatchQueue+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 853A60CFF9D35F2D90C0066D008BE305 /* DispatchQueue+Alamofire.swift */; };
+		62F65AD8DC4F0F9610F4B8B4738EC094 /* ServerTrustPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6660614AA7AC525E7546DE15E774513E /* ServerTrustPolicy.swift */; };
+		7B5FE28C7EA4122B0598738E54DBEBD8 /* SessionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8F34EDBE1A5CDC456D5BCD758EAE839 /* SessionDelegate.swift */; };
+		7D8CC01E8C9EFFF9F4D65406CDE0AB66 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC9E999AA947A2DCF142091EAB46124 /* Result.swift */; };
+		97DC8E9E5E9C2B64E791E1EF9E7C52AB /* KapabelTaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5B5F0D308D3553A0ACB33926BC8199 /* KapabelTaskManager.swift */; };
+		9ED2BB2981896E0A39EFA365503F58CE /* AFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CE7E8420B1056A1B6FADA171CD44CB /* AFError.swift */; };
+		A04BFC558D69E7DBB68023C80A9CFE4E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F9B2E024A80A62FE090406312870D33 /* Foundation.framework */; };
+		A2A6F71B727312BD45CC7A4AAD7B0AB7 /* NetworkReachabilityManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD4080AB4B6337166191C320990C089 /* NetworkReachabilityManager.swift */; };
+		A9EEEA7477981DEEBC72432DE9990A4B /* Alamofire-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B3AA436934C24C0DA1BBF7390948742 /* Alamofire-dummy.m */; };
+		AE1EF48399533730D0066E04B22CA2D6 /* SessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04533A4592AAD39E7C9BB604283BAF40 /* SessionManager.swift */; };
+		B65FCF589DA398C3EFE0128064E510EC /* MultipartFormData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67AB0F29380FA571E99C289B8E97339F /* MultipartFormData.swift */; };
+		BBCAF6199C79B7CAA5121BB7606E8BF9 /* KapabelToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09B44E1E49B21BD5C02FDC672587F02A /* KapabelToastView.swift */; };
+		BBEFE2F9CEB73DC7BD97FFA66A0D9D4F /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBBFF07DDD17FDC02CF41D9ADAEAF900 /* Validation.swift */; };
+		BE5C67A07E289FE1F9BE27335B159997 /* ParameterEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44C69985A7E31272B323F95628CA5C7 /* ParameterEncoding.swift */; };
+		CB6D60925223897FFA2662667DF83E8A /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D6D110943707DE6FCE200050A9BDDC /* Response.swift */; };
+		CB77C554D2358C9C22E94161F6768032 /* Pods-KidsHistoryQuiz-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 420133417307058502F3D417C4730F01 /* Pods-KidsHistoryQuiz-dummy.m */; };
+		E511CDDFF99B76F6C360D0FBF48018F2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F9B2E024A80A62FE090406312870D33 /* Foundation.framework */; };
+		E9D3CAB5720A764C0E6F4A249D6FFB45 /* KapabelToast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46A7D15B3CE1275CA357BECF916368EB /* KapabelToast.swift */; };
+		EFD264FC408EBF3BA2528E70B08DDD94 /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = C065F782F68123022E20819B9C4DDD9B /* Notifications.swift */; };
+		F1C62945F08A544254E586D05574A622 /* KapabelSDK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 257F85BDB0CEED02920928F5C7BFC3E9 /* KapabelSDK.swift */; };
+		F40D1892CBA305C150E4C7455E3CD8AE /* Pods-KidsHistoryQuiz-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FEF90E2AF4A25697B5AFEB0E65AC901 /* Pods-KidsHistoryQuiz-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F6BECD98B97CBFEBE2C96F0E9E72A6C0 /* ResponseSerialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44A3D477225812CC5CE981A95F182E7B /* ResponseSerialization.swift */; };
+		F8B3D3092ED0417E8CDF32033F6122F5 /* Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1082628999668C3E89309379FEC9077 /* Alamofire.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		56E4502A798FFEBE2237EA5F3821B994 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 88E9EC28B8B46C3631E6B242B50F4442;
+			remoteInfo = Alamofire;
+		};
+		671B3ACCD9FAE662804CB489BEA39561 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DC139436FCE4B69DAC71D67ECCAA74E1;
+			remoteInfo = KapabelSDK;
+		};
+		CF3EF0E2E0DA3DDCA82126D04BDE00BC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 88E9EC28B8B46C3631E6B242B50F4442;
+			remoteInfo = Alamofire;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04533A4592AAD39E7C9BB604283BAF40 /* SessionManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionManager.swift; path = Source/SessionManager.swift; sourceTree = "<group>"; };
+		09B44E1E49B21BD5C02FDC672587F02A /* KapabelToastView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelToastView.swift; path = Source/KapabelToastView.swift; sourceTree = "<group>"; };
+		0CC9E999AA947A2DCF142091EAB46124 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Source/Result.swift; sourceTree = "<group>"; };
+		1578815E203E691AB3606B65868C0629 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17DEAA09C31B6CB3DC86E26E0731DC66 /* KapabelGlobals.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelGlobals.swift; path = Source/KapabelGlobals.swift; sourceTree = "<group>"; };
+		257F85BDB0CEED02920928F5C7BFC3E9 /* KapabelSDK.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelSDK.swift; path = Source/KapabelSDK.swift; sourceTree = "<group>"; };
+		2B3AA436934C24C0DA1BBF7390948742 /* Alamofire-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Alamofire-dummy.m"; sourceTree = "<group>"; };
+		3F9B2E024A80A62FE090406312870D33 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		420133417307058502F3D417C4730F01 /* Pods-KidsHistoryQuiz-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KidsHistoryQuiz-dummy.m"; sourceTree = "<group>"; };
+		44A3D477225812CC5CE981A95F182E7B /* ResponseSerialization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResponseSerialization.swift; path = Source/ResponseSerialization.swift; sourceTree = "<group>"; };
+		46A7D15B3CE1275CA357BECF916368EB /* KapabelToast.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelToast.swift; path = Source/KapabelToast.swift; sourceTree = "<group>"; };
+		494CCA513B57A54CFFB77B875B80E604 /* Pods-KidsHistoryQuiz.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KidsHistoryQuiz.debug.xcconfig"; sourceTree = "<group>"; };
+		49AB412F4D37783BF75B72DEC3B5649F /* Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Request.swift; path = Source/Request.swift; sourceTree = "<group>"; };
+		4AE6ABCB88EA7DDB665546CD6EC94BAE /* Pods-KidsHistoryQuiz-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KidsHistoryQuiz-resources.sh"; sourceTree = "<group>"; };
+		4D66DC3F1242BD44377278F74521A3A1 /* KapabelSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KapabelSDK-dummy.m"; sourceTree = "<group>"; };
+		4DFBB3CCE68735E74D4D3FA660F214CE /* KapabelSDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = KapabelSDK.modulemap; sourceTree = "<group>"; };
+		54A1AEC338682E1AA122901FC2954E2C /* KapabelSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KapabelSDK.framework; path = KapabelSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		552C34E48EF7AFBDBF48213447DC1816 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire.framework; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E5B5F0D308D3553A0ACB33926BC8199 /* KapabelTaskManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelTaskManager.swift; path = Source/KapabelTaskManager.swift; sourceTree = "<group>"; };
+		5F7F744309D69984A059A8453960073E /* Pods-KidsHistoryQuiz-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KidsHistoryQuiz-acknowledgements.markdown"; sourceTree = "<group>"; };
+		64820EC48678DF36914355D61806FA06 /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
+		6660614AA7AC525E7546DE15E774513E /* ServerTrustPolicy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustPolicy.swift; path = Source/ServerTrustPolicy.swift; sourceTree = "<group>"; };
+		67AB0F29380FA571E99C289B8E97339F /* MultipartFormData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartFormData.swift; path = Source/MultipartFormData.swift; sourceTree = "<group>"; };
+		6FEF90E2AF4A25697B5AFEB0E65AC901 /* Pods-KidsHistoryQuiz-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-KidsHistoryQuiz-umbrella.h"; sourceTree = "<group>"; };
+		706C7AFFE37BA158C3553250F4B5FAED /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		78E9F1434A3C0BF90DCC19D5A7DD1719 /* Pods-KidsHistoryQuiz-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KidsHistoryQuiz-frameworks.sh"; sourceTree = "<group>"; };
+		83D6D110943707DE6FCE200050A9BDDC /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
+		853A60CFF9D35F2D90C0066D008BE305 /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9AD4080AB4B6337166191C320990C089 /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkReachabilityManager.swift; path = Source/NetworkReachabilityManager.swift; sourceTree = "<group>"; };
+		A7CE7E8420B1056A1B6FADA171CD44CB /* AFError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AFError.swift; path = Source/AFError.swift; sourceTree = "<group>"; };
+		AF49B6C408C0DE833EBCC97B78803C00 /* KapabelSDK.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KapabelSDK.xcconfig; sourceTree = "<group>"; };
+		B1A07DE34DF568ED41B810BA3231ED7D /* Alamofire.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Alamofire.modulemap; sourceTree = "<group>"; };
+		B44C69985A7E31272B323F95628CA5C7 /* ParameterEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoding.swift; path = Source/ParameterEncoding.swift; sourceTree = "<group>"; };
+		B51C66345EE117FED78EC4736279B4C5 /* KapabelSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KapabelSDK-prefix.pch"; sourceTree = "<group>"; };
+		BD2F560AAE912FD66ED6DCDAD10BC96C /* KapabelToastManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelToastManager.swift; path = Source/KapabelToastManager.swift; sourceTree = "<group>"; };
+		C065F782F68123022E20819B9C4DDD9B /* Notifications.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Notifications.swift; path = Source/Notifications.swift; sourceTree = "<group>"; };
+		C13E906D8B03F7A51D4301237A533412 /* Pods-KidsHistoryQuiz-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KidsHistoryQuiz-acknowledgements.plist"; sourceTree = "<group>"; };
+		C8F34EDBE1A5CDC456D5BCD758EAE839 /* SessionDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionDelegate.swift; path = Source/SessionDelegate.swift; sourceTree = "<group>"; };
+		CC118720DF8E6249DA7FDAC8DBB42D8B /* KapabelUser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelUser.swift; path = Source/KapabelUser.swift; sourceTree = "<group>"; };
+		CCFF785CFBD4AB3E8BCC8763D6C5B144 /* Alamofire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Alamofire.xcconfig; sourceTree = "<group>"; };
+		CE990C45C078FC924A8FAF7E39355F2C /* Pods-KidsHistoryQuiz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KidsHistoryQuiz.release.xcconfig"; sourceTree = "<group>"; };
+		CEB05AC2334C0D4B1D3F6296AC4B25DA /* TaskDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TaskDelegate.swift; path = Source/TaskDelegate.swift; sourceTree = "<group>"; };
+		D098537DE2F71CA8CE42D99E60F01D5D /* Alamofire-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-umbrella.h"; sourceTree = "<group>"; };
+		D7B5EA4517895BF2344C9A921E3BDEE6 /* KapabelSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KapabelSDK-umbrella.h"; sourceTree = "<group>"; };
+		D83168A50E9AC17C1C598D7C7C934480 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB8A043BE9361B178A3DDB1D11EE43BE /* Timeline.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Timeline.swift; path = Source/Timeline.swift; sourceTree = "<group>"; };
+		DD721A33E425306FAF0FFE9D03CAD5D6 /* Pods_KidsHistoryQuiz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_KidsHistoryQuiz.framework; path = "Pods-KidsHistoryQuiz.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E49ADEE569D1485C2F10052B1D93962F /* Pods-KidsHistoryQuiz.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-KidsHistoryQuiz.modulemap"; sourceTree = "<group>"; };
+		E682EE6E39515C6656A260179DB62C13 /* KapabelTask.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KapabelTask.swift; path = Source/KapabelTask.swift; sourceTree = "<group>"; };
+		EBBFF07DDD17FDC02CF41D9ADAEAF900 /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
+		F1082628999668C3E89309379FEC9077 /* Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alamofire.swift; path = Source/Alamofire.swift; sourceTree = "<group>"; };
+		FB336FE52B5F424495E5CF872E0134B3 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0C855DA2E5A1EF3CA8C9DD2DF318DD4B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E511CDDFF99B76F6C360D0FBF48018F2 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99195E4207764744AEC07ECCBCD550EB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A04BFC558D69E7DBB68023C80A9CFE4E /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F0F78E0529C99BF191C2DF5746ADF4CD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				397230E678FB36A8EF8EB3E62216E41A /* Alamofire.framework in Frameworks */,
+				2DD9E5D214D12AFDAEA2EE6E041C7F8C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		242E90719BD312F26390EA05E2EB04D9 /* Alamofire */ = {
+			isa = PBXGroup;
+			children = (
+				A7CE7E8420B1056A1B6FADA171CD44CB /* AFError.swift */,
+				F1082628999668C3E89309379FEC9077 /* Alamofire.swift */,
+				853A60CFF9D35F2D90C0066D008BE305 /* DispatchQueue+Alamofire.swift */,
+				67AB0F29380FA571E99C289B8E97339F /* MultipartFormData.swift */,
+				9AD4080AB4B6337166191C320990C089 /* NetworkReachabilityManager.swift */,
+				C065F782F68123022E20819B9C4DDD9B /* Notifications.swift */,
+				B44C69985A7E31272B323F95628CA5C7 /* ParameterEncoding.swift */,
+				49AB412F4D37783BF75B72DEC3B5649F /* Request.swift */,
+				83D6D110943707DE6FCE200050A9BDDC /* Response.swift */,
+				44A3D477225812CC5CE981A95F182E7B /* ResponseSerialization.swift */,
+				0CC9E999AA947A2DCF142091EAB46124 /* Result.swift */,
+				6660614AA7AC525E7546DE15E774513E /* ServerTrustPolicy.swift */,
+				C8F34EDBE1A5CDC456D5BCD758EAE839 /* SessionDelegate.swift */,
+				04533A4592AAD39E7C9BB604283BAF40 /* SessionManager.swift */,
+				CEB05AC2334C0D4B1D3F6296AC4B25DA /* TaskDelegate.swift */,
+				DB8A043BE9361B178A3DDB1D11EE43BE /* Timeline.swift */,
+				EBBFF07DDD17FDC02CF41D9ADAEAF900 /* Validation.swift */,
+				43BD4A08979D256898103CB43AD4F0F4 /* Support Files */,
+			);
+			name = Alamofire;
+			path = Alamofire;
+			sourceTree = "<group>";
+		};
+		43BD4A08979D256898103CB43AD4F0F4 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B1A07DE34DF568ED41B810BA3231ED7D /* Alamofire.modulemap */,
+				CCFF785CFBD4AB3E8BCC8763D6C5B144 /* Alamofire.xcconfig */,
+				2B3AA436934C24C0DA1BBF7390948742 /* Alamofire-dummy.m */,
+				64820EC48678DF36914355D61806FA06 /* Alamofire-prefix.pch */,
+				D098537DE2F71CA8CE42D99E60F01D5D /* Alamofire-umbrella.h */,
+				D83168A50E9AC17C1C598D7C7C934480 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Alamofire";
+			sourceTree = "<group>";
+		};
+		59B91F212518421F271EBA85D5530651 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				706C7AFFE37BA158C3553250F4B5FAED /* Alamofire.framework */,
+				7EB15E2C7EC8DD0E4C409FA3E5AC30A1 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				59B91F212518421F271EBA85D5530651 /* Frameworks */,
+				825620DD3E187F19B4C4C81CCEA90C66 /* Pods */,
+				805CC081946E78A3C2AC69972868E447 /* Products */,
+				D709AFAD8026E13E873CC9B7E88E4858 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		7EB15E2C7EC8DD0E4C409FA3E5AC30A1 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3F9B2E024A80A62FE090406312870D33 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		805CC081946E78A3C2AC69972868E447 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				552C34E48EF7AFBDBF48213447DC1816 /* Alamofire.framework */,
+				54A1AEC338682E1AA122901FC2954E2C /* KapabelSDK.framework */,
+				DD721A33E425306FAF0FFE9D03CAD5D6 /* Pods_KidsHistoryQuiz.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		825620DD3E187F19B4C4C81CCEA90C66 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				242E90719BD312F26390EA05E2EB04D9 /* Alamofire */,
+				90FC20F19E85C02FA6E3F70ADC46FAC5 /* KapabelSDK */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		856185A08FA6D5A776F8B31FE6D0633D /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				FB336FE52B5F424495E5CF872E0134B3 /* Info.plist */,
+				4DFBB3CCE68735E74D4D3FA660F214CE /* KapabelSDK.modulemap */,
+				AF49B6C408C0DE833EBCC97B78803C00 /* KapabelSDK.xcconfig */,
+				4D66DC3F1242BD44377278F74521A3A1 /* KapabelSDK-dummy.m */,
+				B51C66345EE117FED78EC4736279B4C5 /* KapabelSDK-prefix.pch */,
+				D7B5EA4517895BF2344C9A921E3BDEE6 /* KapabelSDK-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/KapabelSDK";
+			sourceTree = "<group>";
+		};
+		90FC20F19E85C02FA6E3F70ADC46FAC5 /* KapabelSDK */ = {
+			isa = PBXGroup;
+			children = (
+				17DEAA09C31B6CB3DC86E26E0731DC66 /* KapabelGlobals.swift */,
+				257F85BDB0CEED02920928F5C7BFC3E9 /* KapabelSDK.swift */,
+				E682EE6E39515C6656A260179DB62C13 /* KapabelTask.swift */,
+				5E5B5F0D308D3553A0ACB33926BC8199 /* KapabelTaskManager.swift */,
+				46A7D15B3CE1275CA357BECF916368EB /* KapabelToast.swift */,
+				BD2F560AAE912FD66ED6DCDAD10BC96C /* KapabelToastManager.swift */,
+				09B44E1E49B21BD5C02FDC672587F02A /* KapabelToastView.swift */,
+				CC118720DF8E6249DA7FDAC8DBB42D8B /* KapabelUser.swift */,
+				856185A08FA6D5A776F8B31FE6D0633D /* Support Files */,
+			);
+			name = KapabelSDK;
+			path = KapabelSDK;
+			sourceTree = "<group>";
+		};
+		B45C006CB3935F9662A9085EB7909DE1 /* Pods-KidsHistoryQuiz */ = {
+			isa = PBXGroup;
+			children = (
+				1578815E203E691AB3606B65868C0629 /* Info.plist */,
+				E49ADEE569D1485C2F10052B1D93962F /* Pods-KidsHistoryQuiz.modulemap */,
+				5F7F744309D69984A059A8453960073E /* Pods-KidsHistoryQuiz-acknowledgements.markdown */,
+				C13E906D8B03F7A51D4301237A533412 /* Pods-KidsHistoryQuiz-acknowledgements.plist */,
+				420133417307058502F3D417C4730F01 /* Pods-KidsHistoryQuiz-dummy.m */,
+				78E9F1434A3C0BF90DCC19D5A7DD1719 /* Pods-KidsHistoryQuiz-frameworks.sh */,
+				4AE6ABCB88EA7DDB665546CD6EC94BAE /* Pods-KidsHistoryQuiz-resources.sh */,
+				6FEF90E2AF4A25697B5AFEB0E65AC901 /* Pods-KidsHistoryQuiz-umbrella.h */,
+				494CCA513B57A54CFFB77B875B80E604 /* Pods-KidsHistoryQuiz.debug.xcconfig */,
+				CE990C45C078FC924A8FAF7E39355F2C /* Pods-KidsHistoryQuiz.release.xcconfig */,
+			);
+			name = "Pods-KidsHistoryQuiz";
+			path = "Target Support Files/Pods-KidsHistoryQuiz";
+			sourceTree = "<group>";
+		};
+		D709AFAD8026E13E873CC9B7E88E4858 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B45C006CB3935F9662A9085EB7909DE1 /* Pods-KidsHistoryQuiz */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		44AA7FCBE3C025B850694CE2646370D5 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F40D1892CBA305C150E4C7455E3CD8AE /* Pods-KidsHistoryQuiz-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		70E4E9B5F25E371A1A9E3A7FE2055CDB /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				60B16B04D0005A10F9F3390C9C3CC3BC /* KapabelSDK-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B4002B6E97835FDCCAA5963EFE09A3E0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B9EDEDC964E6B08F78920B4F4B9DB84 /* Alamofire-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		0F8F7906C59D9005CA1E832D671E26E1 /* Pods-KidsHistoryQuiz */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49959511A043D2B1CF3AB37F4C6A3D51 /* Build configuration list for PBXNativeTarget "Pods-KidsHistoryQuiz" */;
+			buildPhases = (
+				71777F1C374D72A354E929365120827D /* Sources */,
+				0C855DA2E5A1EF3CA8C9DD2DF318DD4B /* Frameworks */,
+				44AA7FCBE3C025B850694CE2646370D5 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7E135FCF7A9B24D6AFB0E6BCFAD1D6B7 /* PBXTargetDependency */,
+				B16A9D1FC553098B3439FEEA6FEDC10C /* PBXTargetDependency */,
+			);
+			name = "Pods-KidsHistoryQuiz";
+			productName = "Pods-KidsHistoryQuiz";
+			productReference = DD721A33E425306FAF0FFE9D03CAD5D6 /* Pods_KidsHistoryQuiz.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		88E9EC28B8B46C3631E6B242B50F4442 /* Alamofire */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 419E5D95491847CD79841B971A8A3277 /* Build configuration list for PBXNativeTarget "Alamofire" */;
+			buildPhases = (
+				32B9974868188C4803318E36329C87FE /* Sources */,
+				99195E4207764744AEC07ECCBCD550EB /* Frameworks */,
+				B4002B6E97835FDCCAA5963EFE09A3E0 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Alamofire;
+			productName = Alamofire;
+			productReference = 552C34E48EF7AFBDBF48213447DC1816 /* Alamofire.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		DC139436FCE4B69DAC71D67ECCAA74E1 /* KapabelSDK */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6167C84B03688BCCD7564E9D23223A38 /* Build configuration list for PBXNativeTarget "KapabelSDK" */;
+			buildPhases = (
+				60F213D111A8C5CA35B7E2D46F2299E0 /* Sources */,
+				F0F78E0529C99BF191C2DF5746ADF4CD /* Frameworks */,
+				70E4E9B5F25E371A1A9E3A7FE2055CDB /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3D9C7C9CF6DF423B7AF9CDA5B072BDD8 /* PBXTargetDependency */,
+			);
+			name = KapabelSDK;
+			productName = KapabelSDK;
+			productReference = 54A1AEC338682E1AA122901FC2954E2C /* KapabelSDK.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 805CC081946E78A3C2AC69972868E447 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				88E9EC28B8B46C3631E6B242B50F4442 /* Alamofire */,
+				DC139436FCE4B69DAC71D67ECCAA74E1 /* KapabelSDK */,
+				0F8F7906C59D9005CA1E832D671E26E1 /* Pods-KidsHistoryQuiz */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		32B9974868188C4803318E36329C87FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9ED2BB2981896E0A39EFA365503F58CE /* AFError.swift in Sources */,
+				A9EEEA7477981DEEBC72432DE9990A4B /* Alamofire-dummy.m in Sources */,
+				F8B3D3092ED0417E8CDF32033F6122F5 /* Alamofire.swift in Sources */,
+				61200D01A1855D7920CEF835C8BE00B0 /* DispatchQueue+Alamofire.swift in Sources */,
+				B65FCF589DA398C3EFE0128064E510EC /* MultipartFormData.swift in Sources */,
+				A2A6F71B727312BD45CC7A4AAD7B0AB7 /* NetworkReachabilityManager.swift in Sources */,
+				EFD264FC408EBF3BA2528E70B08DDD94 /* Notifications.swift in Sources */,
+				BE5C67A07E289FE1F9BE27335B159997 /* ParameterEncoding.swift in Sources */,
+				5387216E723A3C68E851CA15573CDD71 /* Request.swift in Sources */,
+				CB6D60925223897FFA2662667DF83E8A /* Response.swift in Sources */,
+				F6BECD98B97CBFEBE2C96F0E9E72A6C0 /* ResponseSerialization.swift in Sources */,
+				7D8CC01E8C9EFFF9F4D65406CDE0AB66 /* Result.swift in Sources */,
+				62F65AD8DC4F0F9610F4B8B4738EC094 /* ServerTrustPolicy.swift in Sources */,
+				7B5FE28C7EA4122B0598738E54DBEBD8 /* SessionDelegate.swift in Sources */,
+				AE1EF48399533730D0066E04B22CA2D6 /* SessionManager.swift in Sources */,
+				3626B94094672CB1C9DEA32B9F9502E1 /* TaskDelegate.swift in Sources */,
+				10EB23E9ECC4B33E16933BB1EA560B6A /* Timeline.swift in Sources */,
+				BBEFE2F9CEB73DC7BD97FFA66A0D9D4F /* Validation.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		60F213D111A8C5CA35B7E2D46F2299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2851F7CFC55CF62DFEB0E92BA0E99987 /* KapabelGlobals.swift in Sources */,
+				1D62478348CF060273BE11A6748B4C4A /* KapabelSDK-dummy.m in Sources */,
+				F1C62945F08A544254E586D05574A622 /* KapabelSDK.swift in Sources */,
+				3A8722D0A375709E16DA7571D188A98B /* KapabelTask.swift in Sources */,
+				97DC8E9E5E9C2B64E791E1EF9E7C52AB /* KapabelTaskManager.swift in Sources */,
+				E9D3CAB5720A764C0E6F4A249D6FFB45 /* KapabelToast.swift in Sources */,
+				144F3FEA1CAAD60E8BCF2E7517E7F5E9 /* KapabelToastManager.swift in Sources */,
+				BBCAF6199C79B7CAA5121BB7606E8BF9 /* KapabelToastView.swift in Sources */,
+				3D73989C9972A5C36FDDE96F0E50AB29 /* KapabelUser.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		71777F1C374D72A354E929365120827D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CB77C554D2358C9C22E94161F6768032 /* Pods-KidsHistoryQuiz-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3D9C7C9CF6DF423B7AF9CDA5B072BDD8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Alamofire;
+			target = 88E9EC28B8B46C3631E6B242B50F4442 /* Alamofire */;
+			targetProxy = CF3EF0E2E0DA3DDCA82126D04BDE00BC /* PBXContainerItemProxy */;
+		};
+		7E135FCF7A9B24D6AFB0E6BCFAD1D6B7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Alamofire;
+			target = 88E9EC28B8B46C3631E6B242B50F4442 /* Alamofire */;
+			targetProxy = 56E4502A798FFEBE2237EA5F3821B994 /* PBXContainerItemProxy */;
+		};
+		B16A9D1FC553098B3439FEEA6FEDC10C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = KapabelSDK;
+			target = DC139436FCE4B69DAC71D67ECCAA74E1 /* KapabelSDK */;
+			targetProxy = 671B3ACCD9FAE662804CB489BEA39561 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0A29B6F510198AF64EFD762EF6FA97A5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCFF785CFBD4AB3E8BCC8763D6C5B144 /* Alamofire.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Alamofire/Alamofire-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Alamofire/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Alamofire/Alamofire.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = Alamofire;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		1C19C3D81B524A76F332B5424F5AB0DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CE990C45C078FC924A8FAF7E39355F2C /* Pods-KidsHistoryQuiz.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-KidsHistoryQuiz/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-KidsHistoryQuiz/Pods-KidsHistoryQuiz.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_KidsHistoryQuiz;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		1FA59AB03B290ED32F47AEF9AF8958A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AF49B6C408C0DE833EBCC97B78803C00 /* KapabelSDK.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/KapabelSDK/KapabelSDK-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/KapabelSDK/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/KapabelSDK/KapabelSDK.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = KapabelSDK;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		28C09F1A306A3A320B432A25628C1606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 494CCA513B57A54CFFB77B875B80E604 /* Pods-KidsHistoryQuiz.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-KidsHistoryQuiz/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-KidsHistoryQuiz/Pods-KidsHistoryQuiz.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_KidsHistoryQuiz;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		673254EEAF0B5BF4596080C749645884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BAA0DE93F5317042568845BB20FACC3F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AF49B6C408C0DE833EBCC97B78803C00 /* KapabelSDK.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/KapabelSDK/KapabelSDK-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/KapabelSDK/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/KapabelSDK/KapabelSDK.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = KapabelSDK;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		E4F26E6EB105713A6A7E7E2E283AC2DF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		F383079BFBF927813EA3613CFB679FDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCFF785CFBD4AB3E8BCC8763D6C5B144 /* Alamofire.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Alamofire/Alamofire-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Alamofire/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Alamofire/Alamofire.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = Alamofire;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4F26E6EB105713A6A7E7E2E283AC2DF /* Debug */,
+				673254EEAF0B5BF4596080C749645884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		419E5D95491847CD79841B971A8A3277 /* Build configuration list for PBXNativeTarget "Alamofire" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F383079BFBF927813EA3613CFB679FDE /* Debug */,
+				0A29B6F510198AF64EFD762EF6FA97A5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		49959511A043D2B1CF3AB37F4C6A3D51 /* Build configuration list for PBXNativeTarget "Pods-KidsHistoryQuiz" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				28C09F1A306A3A320B432A25628C1606 /* Debug */,
+				1C19C3D81B524A76F332B5424F5AB0DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6167C84B03688BCCD7564E9D23223A38 /* Build configuration list for PBXNativeTarget "KapabelSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAA0DE93F5317042568845BB20FACC3F /* Debug */,
+				1FA59AB03B290ED32F47AEF9AF8958A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

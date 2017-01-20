@@ -1,0 +1,3854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>Correct</key>
+		<string>1905</string>
+		<key>Question</key>
+		<string>When was the Battle of Mukden?</string>
+		<key>Wrong1</key>
+		<string>1592</string>
+		<key>Wrong2</key>
+		<string>1948</string>
+		<key>Wrong3</key>
+		<string>1937</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>Correct</key>
+		<string>1915</string>
+		<key>Question</key>
+		<string>When was the Second Battle of Ypres?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>100</key>
+	<dict>
+		<key>Correct</key>
+		<string>1991</string>
+		<key>Question</key>
+		<string>When was the Gulf War?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>1968</string>
+		<key>Wrong3</key>
+		<string>1809</string>
+	</dict>
+	<key>101</key>
+	<dict>
+		<key>Correct</key>
+		<string>2003</string>
+		<key>Question</key>
+		<string>When was the Invasion of Iraq?</string>
+		<key>Wrong1</key>
+		<string>1954</string>
+		<key>Wrong2</key>
+		<string>1571</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>102</key>
+	<dict>
+		<key>Correct</key>
+		<string>343 BC</string>
+		<key>Question</key>
+		<string>When was the Siege of Sidon?</string>
+		<key>Wrong1</key>
+		<string>1212</string>
+		<key>Wrong2</key>
+		<string>217 BC</string>
+		<key>Wrong3</key>
+		<string>1757</string>
+	</dict>
+	<key>103</key>
+	<dict>
+		<key>Correct</key>
+		<string>70</string>
+		<key>Question</key>
+		<string>When was the Siege of Jerusalem?</string>
+		<key>Wrong1</key>
+		<string>479 BC</string>
+		<key>Wrong2</key>
+		<string>1968</string>
+		<key>Wrong3</key>
+		<string>217 BC</string>
+	</dict>
+	<key>104</key>
+	<dict>
+		<key>Correct</key>
+		<string>614</string>
+		<key>Question</key>
+		<string>When was the Siege of Jerusalem?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>1706</string>
+		<key>Wrong3</key>
+		<string>1937</string>
+	</dict>
+	<key>105</key>
+	<dict>
+		<key>Correct</key>
+		<string>717</string>
+		<key>Question</key>
+		<string>When was the Siege of Constantinople?</string>
+		<key>Wrong1</key>
+		<string>1600</string>
+		<key>Wrong2</key>
+		<string>333 BC</string>
+		<key>Wrong3</key>
+		<string>1954</string>
+	</dict>
+	<key>106</key>
+	<dict>
+		<key>Correct</key>
+		<string>1099</string>
+		<key>Question</key>
+		<string>When was the Siege of Jerusalem?</string>
+		<key>Wrong1</key>
+		<string>1815</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1942</string>
+	</dict>
+	<key>107</key>
+	<dict>
+		<key>Correct</key>
+		<string>1258</string>
+		<key>Question</key>
+		<string>When was the Siege of Baghdad?</string>
+		<key>Wrong1</key>
+		<string>636</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1864</string>
+	</dict>
+	<key>108</key>
+	<dict>
+		<key>Correct</key>
+		<string>1521</string>
+		<key>Question</key>
+		<string>When was the Siege of Tenochtitlan?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1517</string>
+		<key>Wrong3</key>
+		<string>1805</string>
+	</dict>
+	<key>109</key>
+	<dict>
+		<key>Correct</key>
+		<string>1522</string>
+		<key>Question</key>
+		<string>When was the Siege of Rhodes?</string>
+		<key>Wrong1</key>
+		<string>1940</string>
+		<key>Wrong2</key>
+		<string>1948</string>
+		<key>Wrong3</key>
+		<string>1950</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>Correct</key>
+		<string>1915</string>
+		<key>Question</key>
+		<string>When was the Gallipoli Campaign?</string>
+		<key>Wrong1</key>
+		<string>207 BC</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>110</key>
+	<dict>
+		<key>Correct</key>
+		<string>1565</string>
+		<key>Question</key>
+		<string>When was the Great Siege of Malta?</string>
+		<key>Wrong1</key>
+		<string>1862</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1314</string>
+	</dict>
+	<key>111</key>
+	<dict>
+		<key>Correct</key>
+		<string>1597</string>
+		<key>Question</key>
+		<string>When was the Siege of Ulsan?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>168 BC</string>
+	</dict>
+	<key>112</key>
+	<dict>
+		<key>Correct</key>
+		<string>1627</string>
+		<key>Question</key>
+		<string>When was the Siege of La Rochelle?</string>
+		<key>Wrong1</key>
+		<string>1916</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1950</string>
+	</dict>
+	<key>113</key>
+	<dict>
+		<key>Correct</key>
+		<string>1630</string>
+		<key>Question</key>
+		<string>When was the Sack of Magdeburg?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1592</string>
+	</dict>
+	<key>114</key>
+	<dict>
+		<key>Correct</key>
+		<string>1808</string>
+		<key>Question</key>
+		<string>When was the Second Siege of Zaragoza?</string>
+		<key>Wrong1</key>
+		<string>1917</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1863</string>
+	</dict>
+	<key>115</key>
+	<dict>
+		<key>Correct</key>
+		<string>1863</string>
+		<key>Question</key>
+		<string>When was the Siege of Vicksburg?</string>
+		<key>Wrong1</key>
+		<string>1862</string>
+		<key>Wrong2</key>
+		<string>1693</string>
+		<key>Wrong3</key>
+		<string>1931</string>
+	</dict>
+	<key>116</key>
+	<dict>
+		<key>Correct</key>
+		<string>1864</string>
+		<key>Question</key>
+		<string>When was the Siege of Petersburg?</string>
+		<key>Wrong1</key>
+		<string>1571</string>
+		<key>Wrong2</key>
+		<string>1854</string>
+		<key>Wrong3</key>
+		<string>1945</string>
+	</dict>
+	<key>117</key>
+	<dict>
+		<key>Correct</key>
+		<string>1877</string>
+		<key>Question</key>
+		<string>When was the Siege of Plevna?</string>
+		<key>Wrong1</key>
+		<string>1515</string>
+		<key>Wrong2</key>
+		<string>633</string>
+		<key>Wrong3</key>
+		<string>1918</string>
+	</dict>
+	<key>118</key>
+	<dict>
+		<key>Correct</key>
+		<string>1904</string>
+		<key>Question</key>
+		<string>When was the Siege of Port Arthur?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>280 BC</string>
+		<key>Wrong3</key>
+		<string>1940</string>
+	</dict>
+	<key>119</key>
+	<dict>
+		<key>Correct</key>
+		<string>1912</string>
+		<key>Question</key>
+		<string>When was the Siege of Adrianople?</string>
+		<key>Wrong1</key>
+		<string>1948</string>
+		<key>Wrong2</key>
+		<string>1968</string>
+		<key>Wrong3</key>
+		<string>1913</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>Correct</key>
+		<string>1915</string>
+		<key>Question</key>
+		<string>When was the Second Battle of Artois?</string>
+		<key>Wrong1</key>
+		<string>1698</string>
+		<key>Wrong2</key>
+		<string>633</string>
+		<key>Wrong3</key>
+		<string>217 BC</string>
+	</dict>
+	<key>120</key>
+	<dict>
+		<key>Correct</key>
+		<string>1937</string>
+		<key>Question</key>
+		<string>When was the Battle of Taiyuan?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>642</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>121</key>
+	<dict>
+		<key>Correct</key>
+		<string>1937</string>
+		<key>Question</key>
+		<string>When was the Battle of Xinkou?</string>
+		<key>Wrong1</key>
+		<string>280 BC</string>
+		<key>Wrong2</key>
+		<string>1939</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>122</key>
+	<dict>
+		<key>Correct</key>
+		<string>1937</string>
+		<key>Question</key>
+		<string>When was the Battle of Shanghai?</string>
+		<key>Wrong1</key>
+		<string>1812</string>
+		<key>Wrong2</key>
+		<string>1796</string>
+		<key>Wrong3</key>
+		<string>208</string>
+	</dict>
+	<key>123</key>
+	<dict>
+		<key>Correct</key>
+		<string>1938</string>
+		<key>Question</key>
+		<string>When was the Battle of Wuhan?</string>
+		<key>Wrong1</key>
+		<string>1627</string>
+		<key>Wrong2</key>
+		<string>1912</string>
+		<key>Wrong3</key>
+		<string>1939</string>
+	</dict>
+	<key>124</key>
+	<dict>
+		<key>Correct</key>
+		<string>1939</string>
+		<key>Question</key>
+		<string>When was the First Battle of Changsha?</string>
+		<key>Wrong1</key>
+		<string>1943</string>
+		<key>Wrong2</key>
+		<string>1693</string>
+		<key>Wrong3</key>
+		<string>1863</string>
+	</dict>
+	<key>125</key>
+	<dict>
+		<key>Correct</key>
+		<string>1939</string>
+		<key>Question</key>
+		<string>When was the Battle of Nanchang?</string>
+		<key>Wrong1</key>
+		<string>451</string>
+		<key>Wrong2</key>
+		<string>1915</string>
+		<key>Wrong3</key>
+		<string>168 BC</string>
+	</dict>
+	<key>126</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Siege of Odessa?</string>
+		<key>Wrong1</key>
+		<string>1526</string>
+		<key>Wrong2</key>
+		<string>1982</string>
+		<key>Wrong3</key>
+		<string>1187</string>
+	</dict>
+	<key>127</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of South Shanxi?</string>
+		<key>Wrong1</key>
+		<string>1812</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1706</string>
+	</dict>
+	<key>128</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Third Battle of Changsha?</string>
+		<key>Wrong1</key>
+		<string>1808</string>
+		<key>Wrong2</key>
+		<string>1757</string>
+		<key>Wrong3</key>
+		<string>1916</string>
+	</dict>
+	<key>129</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Battle of Stalingrad?</string>
+		<key>Wrong1</key>
+		<string>1758</string>
+		<key>Wrong2</key>
+		<string>1634</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>Correct</key>
+		<string>1915</string>
+		<key>Question</key>
+		<string>When was the Second Battle of Champagne?</string>
+		<key>Wrong1</key>
+		<string>479 BC</string>
+		<key>Wrong2</key>
+		<string>1939</string>
+		<key>Wrong3</key>
+		<string>1945</string>
+	</dict>
+	<key>130</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Battle of Changde?</string>
+		<key>Wrong1</key>
+		<string>343 BC</string>
+		<key>Wrong2</key>
+		<string>1187</string>
+		<key>Wrong3</key>
+		<string>1942</string>
+	</dict>
+	<key>131</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Battle of West Hubei?</string>
+		<key>Wrong1</key>
+		<string>1863</string>
+		<key>Wrong2</key>
+		<string>1940</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>132</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Siege of Leningrad?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>1517</string>
+		<key>Wrong3</key>
+		<string>190 BC</string>
+	</dict>
+	<key>133</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Warsaw Uprising?</string>
+		<key>Wrong1</key>
+		<string>218 BC</string>
+		<key>Wrong2</key>
+		<string>84 AD</string>
+		<key>Wrong3</key>
+		<string>1529</string>
+	</dict>
+	<key>134</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Siege of Budapest?</string>
+		<key>Wrong1</key>
+		<string>1982</string>
+		<key>Wrong2</key>
+		<string>1815</string>
+		<key>Wrong3</key>
+		<string>262 BC</string>
+	</dict>
+	<key>135</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Battle of Berlin?</string>
+		<key>Wrong1</key>
+		<string>1863</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1912</string>
+	</dict>
+	<key>136</key>
+	<dict>
+		<key>Correct</key>
+		<string>1948</string>
+		<key>Question</key>
+		<string>When was the Siege of Changchun?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>1940</string>
+		<key>Wrong3</key>
+		<string>1862</string>
+	</dict>
+	<key>137</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Kiev?</string>
+		<key>Wrong1</key>
+		<string>1639</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>1521</string>
+	</dict>
+	<key>138</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Battle of Manila?</string>
+		<key>Wrong1</key>
+		<string>1515</string>
+		<key>Wrong2</key>
+		<string>1099</string>
+		<key>Wrong3</key>
+		<string>1992</string>
+	</dict>
+	<key>139</key>
+	<dict>
+		<key>Correct</key>
+		<string>1992</string>
+		<key>Question</key>
+		<string>When was the Siege of Sarajevo?</string>
+		<key>Wrong1</key>
+		<string>1939</string>
+		<key>Wrong2</key>
+		<string>1948</string>
+		<key>Wrong3</key>
+		<string>636</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>Correct</key>
+		<string>1915</string>
+		<key>Question</key>
+		<string>When was the Gorlice–Tarnów Offensive?</string>
+		<key>Wrong1</key>
+		<string>1805</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>260 BC</string>
+	</dict>
+	<key>140</key>
+	<dict>
+		<key>Correct</key>
+		<string>2012</string>
+		<key>Question</key>
+		<string>When was the Battle of Aleppo?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>2003</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>141</key>
+	<dict>
+		<key>Correct</key>
+		<string>853 BC</string>
+		<key>Question</key>
+		<string>When was the Assyrian Conquest of Syria?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1905</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>142</key>
+	<dict>
+		<key>Correct</key>
+		<string>547 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Thymbra?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>1800</string>
+		<key>Wrong3</key>
+		<string>1565</string>
+	</dict>
+	<key>143</key>
+	<dict>
+		<key>Correct</key>
+		<string>480 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Thermopylae?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>633</string>
+		<key>Wrong3</key>
+		<string>642</string>
+	</dict>
+	<key>144</key>
+	<dict>
+		<key>Correct</key>
+		<string>479 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Plataea?</string>
+		<key>Wrong1</key>
+		<string>1954</string>
+		<key>Wrong2</key>
+		<string>343 BC</string>
+		<key>Wrong3</key>
+		<string>547 BC</string>
+	</dict>
+	<key>145</key>
+	<dict>
+		<key>Correct</key>
+		<string>338 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Chaeronea?</string>
+		<key>Wrong1</key>
+		<string>1697</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>146</key>
+	<dict>
+		<key>Correct</key>
+		<string>334 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of the Granicus?</string>
+		<key>Wrong1</key>
+		<string>1627</string>
+		<key>Wrong2</key>
+		<string>1410</string>
+		<key>Wrong3</key>
+		<string>1945</string>
+	</dict>
+	<key>147</key>
+	<dict>
+		<key>Correct</key>
+		<string>333 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Issus?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>168 BC</string>
+		<key>Wrong3</key>
+		<string>1461</string>
+	</dict>
+	<key>148</key>
+	<dict>
+		<key>Correct</key>
+		<string>331 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Gaugamela?</string>
+		<key>Wrong1</key>
+		<string>1212</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1410</string>
+	</dict>
+	<key>149</key>
+	<dict>
+		<key>Correct</key>
+		<string>326 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of the Hydaspes?</string>
+		<key>Wrong1</key>
+		<string>331 BC</string>
+		<key>Wrong2</key>
+		<string>1854</string>
+		<key>Wrong3</key>
+		<string>1395</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>Correct</key>
+		<string>1916</string>
+		<key>Question</key>
+		<string>When was the Battle of Verdun?</string>
+		<key>Wrong1</key>
+		<string>378</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1942</string>
+	</dict>
+	<key>150</key>
+	<dict>
+		<key>Correct</key>
+		<string>295 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Sentinum?</string>
+		<key>Wrong1</key>
+		<string>1241</string>
+		<key>Wrong2</key>
+		<string>633</string>
+		<key>Wrong3</key>
+		<string>1968</string>
+	</dict>
+	<key>151</key>
+	<dict>
+		<key>Correct</key>
+		<string>280 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Heraclea?</string>
+		<key>Wrong1</key>
+		<string>1808</string>
+		<key>Wrong2</key>
+		<string>1915</string>
+		<key>Wrong3</key>
+		<string>190 BC</string>
+	</dict>
+	<key>152</key>
+	<dict>
+		<key>Correct</key>
+		<string>262 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Kalinga?</string>
+		<key>Wrong1</key>
+		<string>1758</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>636</string>
+	</dict>
+	<key>153</key>
+	<dict>
+		<key>Correct</key>
+		<string>260 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Changping?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>1813</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>154</key>
+	<dict>
+		<key>Correct</key>
+		<string>218 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of the Trebia?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>1812</string>
+		<key>Wrong3</key>
+		<string>1571</string>
+	</dict>
+	<key>155</key>
+	<dict>
+		<key>Correct</key>
+		<string>217 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Lake Trasimene?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1937</string>
+		<key>Wrong3</key>
+		<string>1940</string>
+	</dict>
+	<key>156</key>
+	<dict>
+		<key>Correct</key>
+		<string>216 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Cannae?</string>
+		<key>Wrong1</key>
+		<string>208</string>
+		<key>Wrong2</key>
+		<string>168 BC</string>
+		<key>Wrong3</key>
+		<string>1565</string>
+	</dict>
+	<key>157</key>
+	<dict>
+		<key>Correct</key>
+		<string>207 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of the Metaurus?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1241</string>
+	</dict>
+	<key>158</key>
+	<dict>
+		<key>Correct</key>
+		<string>202 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Zama?</string>
+		<key>Wrong1</key>
+		<string>1571</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1758</string>
+	</dict>
+	<key>159</key>
+	<dict>
+		<key>Correct</key>
+		<string>190 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Magnesia?</string>
+		<key>Wrong1</key>
+		<string>1395</string>
+		<key>Wrong2</key>
+		<string>1863</string>
+		<key>Wrong3</key>
+		<string>1904</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>Correct</key>
+		<string>1916</string>
+		<key>Question</key>
+		<string>When was the Battle of Asiago?</string>
+		<key>Wrong1</key>
+		<string>633</string>
+		<key>Wrong2</key>
+		<string>280 BC</string>
+		<key>Wrong3</key>
+		<string>1258</string>
+	</dict>
+	<key>160</key>
+	<dict>
+		<key>Correct</key>
+		<string>168 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Pydna?</string>
+		<key>Wrong1</key>
+		<string>338 BC</string>
+		<key>Wrong2</key>
+		<string>1631</string>
+		<key>Wrong3</key>
+		<string>1863</string>
+	</dict>
+	<key>161</key>
+	<dict>
+		<key>Correct</key>
+		<string>105 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Arausio?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>1877</string>
+		<key>Wrong3</key>
+		<string>1912</string>
+	</dict>
+	<key>162</key>
+	<dict>
+		<key>Correct</key>
+		<string>53 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Carrhae?</string>
+		<key>Wrong1</key>
+		<string>1992</string>
+		<key>Wrong2</key>
+		<string>1948</string>
+		<key>Wrong3</key>
+		<string>105 BC</string>
+	</dict>
+	<key>163</key>
+	<dict>
+		<key>Correct</key>
+		<string>48 BC</string>
+		<key>Question</key>
+		<string>When was the Battle of Pharsalus?</string>
+		<key>Wrong1</key>
+		<string>1630</string>
+		<key>Wrong2</key>
+		<string>1686</string>
+		<key>Wrong3</key>
+		<string>1805</string>
+	</dict>
+	<key>164</key>
+	<dict>
+		<key>Correct</key>
+		<string>9 AD</string>
+		<key>Question</key>
+		<string>When was the Battle of the Teutoburg Forest?</string>
+		<key>Wrong1</key>
+		<string>338 BC</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>165</key>
+	<dict>
+		<key>Correct</key>
+		<string>61 AD</string>
+		<key>Question</key>
+		<string>When was the Battle of Watling Street?</string>
+		<key>Wrong1</key>
+		<string>202 BC</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1745</string>
+	</dict>
+	<key>166</key>
+	<dict>
+		<key>Correct</key>
+		<string>84 AD</string>
+		<key>Question</key>
+		<string>When was the Battle of Mons Graupius?</string>
+		<key>Wrong1</key>
+		<string>1939</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1973</string>
+	</dict>
+	<key>167</key>
+	<dict>
+		<key>Correct</key>
+		<string>208</string>
+		<key>Question</key>
+		<string>When was the Battle of Red Cliffs?</string>
+		<key>Wrong1</key>
+		<string>1709</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>168</key>
+	<dict>
+		<key>Correct</key>
+		<string>378</string>
+		<key>Question</key>
+		<string>When was the Battle of Adrianople?</string>
+		<key>Wrong1</key>
+		<string>1800</string>
+		<key>Wrong2</key>
+		<string>1982</string>
+		<key>Wrong3</key>
+		<string>1945</string>
+	</dict>
+	<key>169</key>
+	<dict>
+		<key>Correct</key>
+		<string>383</string>
+		<key>Question</key>
+		<string>When was the Battle of Fei River?</string>
+		<key>Wrong1</key>
+		<string>1187</string>
+		<key>Wrong2</key>
+		<string>1968</string>
+		<key>Wrong3</key>
+		<string>633</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>Correct</key>
+		<string>1916</string>
+		<key>Question</key>
+		<string>When was the Brusilov Offensive?</string>
+		<key>Wrong1</key>
+		<string>216 BC</string>
+		<key>Wrong2</key>
+		<string>1973</string>
+		<key>Wrong3</key>
+		<string>1212</string>
+	</dict>
+	<key>170</key>
+	<dict>
+		<key>Correct</key>
+		<string>451</string>
+		<key>Question</key>
+		<string>When was the Battle of the Catalaunian Plains?</string>
+		<key>Wrong1</key>
+		<string>331 BC</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>1917</string>
+	</dict>
+	<key>171</key>
+	<dict>
+		<key>Correct</key>
+		<string>612</string>
+		<key>Question</key>
+		<string>When was the Battle of Salsu?</string>
+		<key>Wrong1</key>
+		<string>1917</string>
+		<key>Wrong2</key>
+		<string>1863</string>
+		<key>Wrong3</key>
+		<string>1813</string>
+	</dict>
+	<key>172</key>
+	<dict>
+		<key>Correct</key>
+		<string>636</string>
+		<key>Question</key>
+		<string>When was the Battle of al-Qādisiyyah?</string>
+		<key>Wrong1</key>
+		<string>1651</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>173</key>
+	<dict>
+		<key>Correct</key>
+		<string>633</string>
+		<key>Question</key>
+		<string>When was the Battle of Muzayyah?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>1914</string>
+		<key>Wrong3</key>
+		<string>1949</string>
+	</dict>
+	<key>174</key>
+	<dict>
+		<key>Correct</key>
+		<string>633</string>
+		<key>Question</key>
+		<string>When was the Battle of Ullais?</string>
+		<key>Wrong1</key>
+		<string>1938</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>168 BC</string>
+	</dict>
+	<key>175</key>
+	<dict>
+		<key>Correct</key>
+		<string>633</string>
+		<key>Question</key>
+		<string>When was the Battle of River?</string>
+		<key>Wrong1</key>
+		<string>1940</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>1597</string>
+	</dict>
+	<key>176</key>
+	<dict>
+		<key>Correct</key>
+		<string>636</string>
+		<key>Question</key>
+		<string>When was the Battle of Walaja?</string>
+		<key>Wrong1</key>
+		<string>2012</string>
+		<key>Wrong2</key>
+		<string>1449</string>
+		<key>Wrong3</key>
+		<string>1461</string>
+	</dict>
+	<key>177</key>
+	<dict>
+		<key>Correct</key>
+		<string>633</string>
+		<key>Question</key>
+		<string>When was the Battle of Saniyy?</string>
+		<key>Wrong1</key>
+		<string>216 BC</string>
+		<key>Wrong2</key>
+		<string>1809</string>
+		<key>Wrong3</key>
+		<string>1942</string>
+	</dict>
+	<key>178</key>
+	<dict>
+		<key>Correct</key>
+		<string>642</string>
+		<key>Question</key>
+		<string>When was the Battle of Nahāvand?</string>
+		<key>Wrong1</key>
+		<string>1812</string>
+		<key>Wrong2</key>
+		<string>1658</string>
+		<key>Wrong3</key>
+		<string>612</string>
+	</dict>
+	<key>179</key>
+	<dict>
+		<key>Correct</key>
+		<string>636</string>
+		<key>Question</key>
+		<string>When was the Battle of Yarmouk?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>61 AD</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>Correct</key>
+		<string>1916</string>
+		<key>Question</key>
+		<string>When was the Battle of the Somme?</string>
+		<key>Wrong1</key>
+		<string>853 BC</string>
+		<key>Wrong2</key>
+		<string>1917</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>180</key>
+	<dict>
+		<key>Correct</key>
+		<string>1121</string>
+		<key>Question</key>
+		<string>When was the Battle of Didgori?</string>
+		<key>Wrong1</key>
+		<string>633</string>
+		<key>Wrong2</key>
+		<string>1807</string>
+		<key>Wrong3</key>
+		<string>1627</string>
+	</dict>
+	<key>181</key>
+	<dict>
+		<key>Correct</key>
+		<string>1187</string>
+		<key>Question</key>
+		<string>When was the Battle of Hattin?</string>
+		<key>Wrong1</key>
+		<string>216 BC</string>
+		<key>Wrong2</key>
+		<string>1807</string>
+		<key>Wrong3</key>
+		<string>331 BC</string>
+	</dict>
+	<key>182</key>
+	<dict>
+		<key>Correct</key>
+		<string>1212</string>
+		<key>Question</key>
+		<string>When was the Battle of Las Navas de Tolosa?</string>
+		<key>Wrong1</key>
+		<string>1815</string>
+		<key>Wrong2</key>
+		<string>1854</string>
+		<key>Wrong3</key>
+		<string>1982</string>
+	</dict>
+	<key>183</key>
+	<dict>
+		<key>Correct</key>
+		<string>1223</string>
+		<key>Question</key>
+		<string>When was the Battle of the Kalka River?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>295 BC</string>
+		<key>Wrong3</key>
+		<string>1212</string>
+	</dict>
+	<key>184</key>
+	<dict>
+		<key>Correct</key>
+		<string>1241</string>
+		<key>Question</key>
+		<string>When was the Battle of Legnica?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>1600</string>
+		<key>Wrong3</key>
+		<string>1526</string>
+	</dict>
+	<key>185</key>
+	<dict>
+		<key>Correct</key>
+		<string>1241</string>
+		<key>Question</key>
+		<string>When was the Battle of Mohi?</string>
+		<key>Wrong1</key>
+		<string>1991</string>
+		<key>Wrong2</key>
+		<string>1395</string>
+		<key>Wrong3</key>
+		<string>1945</string>
+	</dict>
+	<key>186</key>
+	<dict>
+		<key>Correct</key>
+		<string>1279</string>
+		<key>Question</key>
+		<string>When was the Battle of Yamen?</string>
+		<key>Wrong1</key>
+		<string>208</string>
+		<key>Wrong2</key>
+		<string>636</string>
+		<key>Wrong3</key>
+		<string>717</string>
+	</dict>
+	<key>187</key>
+	<dict>
+		<key>Correct</key>
+		<string>1314</string>
+		<key>Question</key>
+		<string>When was the Battle of Bannockburn?</string>
+		<key>Wrong1</key>
+		<string>1863</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>188</key>
+	<dict>
+		<key>Correct</key>
+		<string>1380</string>
+		<key>Question</key>
+		<string>When was the Battle of Kulikovo?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>280 BC</string>
+		<key>Wrong3</key>
+		<string>1258</string>
+	</dict>
+	<key>189</key>
+	<dict>
+		<key>Correct</key>
+		<string>1395</string>
+		<key>Question</key>
+		<string>When was the Battle of the Terek River?</string>
+		<key>Wrong1</key>
+		<string>1916</string>
+		<key>Wrong2</key>
+		<string>547 BC</string>
+		<key>Wrong3</key>
+		<string>1917</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>Correct</key>
+		<string>1916</string>
+		<key>Question</key>
+		<string>When was the Monastir Offensive?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1937</string>
+	</dict>
+	<key>190</key>
+	<dict>
+		<key>Correct</key>
+		<string>1398</string>
+		<key>Question</key>
+		<string>When was the Conquest of Delhi?</string>
+		<key>Wrong1</key>
+		<string>1982</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1449</string>
+	</dict>
+	<key>191</key>
+	<dict>
+		<key>Correct</key>
+		<string>1402</string>
+		<key>Question</key>
+		<string>When was the Battle of Ankara?</string>
+		<key>Wrong1</key>
+		<string>207 BC</string>
+		<key>Wrong2</key>
+		<string>633</string>
+		<key>Wrong3</key>
+		<string>1942</string>
+	</dict>
+	<key>192</key>
+	<dict>
+		<key>Correct</key>
+		<string>1410</string>
+		<key>Question</key>
+		<string>When was the Battle of Grunwald?</string>
+		<key>Wrong1</key>
+		<string>1223</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>193</key>
+	<dict>
+		<key>Correct</key>
+		<string>1449</string>
+		<key>Question</key>
+		<string>When was the Tumu Crisis?</string>
+		<key>Wrong1</key>
+		<string>1813</string>
+		<key>Wrong2</key>
+		<string>218 BC</string>
+		<key>Wrong3</key>
+		<string>1395</string>
+	</dict>
+	<key>194</key>
+	<dict>
+		<key>Correct</key>
+		<string>1461</string>
+		<key>Question</key>
+		<string>When was the Battle of Towton?</string>
+		<key>Wrong1</key>
+		<string>331 BC</string>
+		<key>Wrong2</key>
+		<string>1972</string>
+		<key>Wrong3</key>
+		<string>853 BC</string>
+	</dict>
+	<key>195</key>
+	<dict>
+		<key>Correct</key>
+		<string>1504</string>
+		<key>Question</key>
+		<string>When was the Battle of Kabul?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>196</key>
+	<dict>
+		<key>Correct</key>
+		<string>1512</string>
+		<key>Question</key>
+		<string>When was the Battle of Ravenna?</string>
+		<key>Wrong1</key>
+		<string>1809</string>
+		<key>Wrong2</key>
+		<string>1627</string>
+		<key>Wrong3</key>
+		<string>326 BC</string>
+	</dict>
+	<key>197</key>
+	<dict>
+		<key>Correct</key>
+		<string>1515</string>
+		<key>Question</key>
+		<string>When was the Battle of Marignano?</string>
+		<key>Wrong1</key>
+		<string>1863</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1241</string>
+	</dict>
+	<key>198</key>
+	<dict>
+		<key>Correct</key>
+		<string>1517</string>
+		<key>Question</key>
+		<string>When was the Battle of Ridaniya?</string>
+		<key>Wrong1</key>
+		<string>1863</string>
+		<key>Wrong2</key>
+		<string>1809</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>199</key>
+	<dict>
+		<key>Correct</key>
+		<string>1526</string>
+		<key>Question</key>
+		<string>When was the First Battle of Panipat?</string>
+		<key>Wrong1</key>
+		<string>1904</string>
+		<key>Wrong2</key>
+		<string>1940</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>Correct</key>
+		<string>1912</string>
+		<key>Question</key>
+		<string>When was the Battle of Lule Burgas?</string>
+		<key>Wrong1</key>
+		<string>451</string>
+		<key>Wrong2</key>
+		<string>326 BC</string>
+		<key>Wrong3</key>
+		<string>1805</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>Correct</key>
+		<string>1916</string>
+		<key>Question</key>
+		<string>When was the Romanian Campaign?</string>
+		<key>Wrong1</key>
+		<string>1939</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1945</string>
+	</dict>
+	<key>200</key>
+	<dict>
+		<key>Correct</key>
+		<string>1526</string>
+		<key>Question</key>
+		<string>When was the Battle of Mohács?</string>
+		<key>Wrong1</key>
+		<string>717</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>2012</string>
+	</dict>
+	<key>201</key>
+	<dict>
+		<key>Correct</key>
+		<string>1529</string>
+		<key>Question</key>
+		<string>When was the Battle of Ghaghra?</string>
+		<key>Wrong1</key>
+		<string>1815</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>383</string>
+	</dict>
+	<key>202</key>
+	<dict>
+		<key>Correct</key>
+		<string>1571</string>
+		<key>Question</key>
+		<string>When was the Battle of Lepanto?</string>
+		<key>Wrong1</key>
+		<string>1943</string>
+		<key>Wrong2</key>
+		<string>1522</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>203</key>
+	<dict>
+		<key>Correct</key>
+		<string>1592</string>
+		<key>Question</key>
+		<string>When was the Battle of Chungju?</string>
+		<key>Wrong1</key>
+		<string>1709</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>48 BC</string>
+	</dict>
+	<key>204</key>
+	<dict>
+		<key>Correct</key>
+		<string>1593</string>
+		<key>Question</key>
+		<string>When was the Battle of Byeokjegwan?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>190 BC</string>
+		<key>Wrong3</key>
+		<string>1938</string>
+	</dict>
+	<key>205</key>
+	<dict>
+		<key>Correct</key>
+		<string>1600</string>
+		<key>Question</key>
+		<string>When was the Battle of Sekigahara?</string>
+		<key>Wrong1</key>
+		<string>1920</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>853 BC</string>
+	</dict>
+	<key>206</key>
+	<dict>
+		<key>Correct</key>
+		<string>1631</string>
+		<key>Question</key>
+		<string>When was the First Battle of Breitenfeld?</string>
+		<key>Wrong1</key>
+		<string>1212</string>
+		<key>Wrong2</key>
+		<string>1915</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>207</key>
+	<dict>
+		<key>Correct</key>
+		<string>1632</string>
+		<key>Question</key>
+		<string>When was the Battle of Lützen?</string>
+		<key>Wrong1</key>
+		<string>334 BC</string>
+		<key>Wrong2</key>
+		<string>1686</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>208</key>
+	<dict>
+		<key>Correct</key>
+		<string>1634</string>
+		<key>Question</key>
+		<string>When was the Battle of Nördlingen?</string>
+		<key>Wrong1</key>
+		<string>1916</string>
+		<key>Wrong2</key>
+		<string>1806</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>209</key>
+	<dict>
+		<key>Correct</key>
+		<string>1639</string>
+		<key>Question</key>
+		<string>When was the Battle of the Downs?</string>
+		<key>Wrong1</key>
+		<string>1800</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>Correct</key>
+		<string>1917</string>
+		<key>Question</key>
+		<string>When was the Nivelle Offensive?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>217 BC</string>
+		<key>Wrong3</key>
+		<string>1809</string>
+	</dict>
+	<key>210</key>
+	<dict>
+		<key>Correct</key>
+		<string>1651</string>
+		<key>Question</key>
+		<string>When was the Battle of Berestechko?</string>
+		<key>Wrong1</key>
+		<string>1862</string>
+		<key>Wrong2</key>
+		<string>1639</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>211</key>
+	<dict>
+		<key>Correct</key>
+		<string>1658</string>
+		<key>Question</key>
+		<string>When was the Battle of Samugarh?</string>
+		<key>Wrong1</key>
+		<string>1706</string>
+		<key>Wrong2</key>
+		<string>1693</string>
+		<key>Wrong3</key>
+		<string>378</string>
+	</dict>
+	<key>212</key>
+	<dict>
+		<key>Correct</key>
+		<string>1659</string>
+		<key>Question</key>
+		<string>When was the Battle of Khajwa?</string>
+		<key>Wrong1</key>
+		<string>1938</string>
+		<key>Wrong2</key>
+		<string>280 BC</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>213</key>
+	<dict>
+		<key>Correct</key>
+		<string>1683</string>
+		<key>Question</key>
+		<string>When was the Battle of Vienna?</string>
+		<key>Wrong1</key>
+		<string>1917</string>
+		<key>Wrong2</key>
+		<string>70</string>
+		<key>Wrong3</key>
+		<string>1942</string>
+	</dict>
+	<key>214</key>
+	<dict>
+		<key>Correct</key>
+		<string>1686</string>
+		<key>Question</key>
+		<string>When was the Battle of Bijapur?</string>
+		<key>Wrong1</key>
+		<string>1917</string>
+		<key>Wrong2</key>
+		<string>853 BC</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>215</key>
+	<dict>
+		<key>Correct</key>
+		<string>1693</string>
+		<key>Question</key>
+		<string>When was the Battle of Landen?</string>
+		<key>Wrong1</key>
+		<string>1948</string>
+		<key>Wrong2</key>
+		<string>207 BC</string>
+		<key>Wrong3</key>
+		<string>295 BC</string>
+	</dict>
+	<key>216</key>
+	<dict>
+		<key>Correct</key>
+		<string>1697</string>
+		<key>Question</key>
+		<string>When was the Battle of Zenta?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>1917</string>
+		<key>Wrong3</key>
+		<string>1905</string>
+	</dict>
+	<key>217</key>
+	<dict>
+		<key>Correct</key>
+		<string>1698</string>
+		<key>Question</key>
+		<string>When was the Battle of Jinji?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>614</string>
+		<key>Wrong3</key>
+		<string>642</string>
+	</dict>
+	<key>218</key>
+	<dict>
+		<key>Correct</key>
+		<string>1704</string>
+		<key>Question</key>
+		<string>When was the Battle of Blenheim?</string>
+		<key>Wrong1</key>
+		<string>1940</string>
+		<key>Wrong2</key>
+		<string>1948</string>
+		<key>Wrong3</key>
+		<string>1904</string>
+	</dict>
+	<key>219</key>
+	<dict>
+		<key>Correct</key>
+		<string>1706</string>
+		<key>Question</key>
+		<string>When was the Battle of Ramillies?</string>
+		<key>Wrong1</key>
+		<string>53 BC</string>
+		<key>Wrong2</key>
+		<string>1597</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>Correct</key>
+		<string>1917</string>
+		<key>Question</key>
+		<string>When was the Battle of Messines?</string>
+		<key>Wrong1</key>
+		<string>378</string>
+		<key>Wrong2</key>
+		<string>1812</string>
+		<key>Wrong3</key>
+		<string>633</string>
+	</dict>
+	<key>220</key>
+	<dict>
+		<key>Correct</key>
+		<string>1709</string>
+		<key>Question</key>
+		<string>When was the Battle of Malplaquet?</string>
+		<key>Wrong1</key>
+		<string>1526</string>
+		<key>Wrong2</key>
+		<string>1914</string>
+		<key>Wrong3</key>
+		<string>1864</string>
+	</dict>
+	<key>221</key>
+	<dict>
+		<key>Correct</key>
+		<string>1745</string>
+		<key>Question</key>
+		<string>When was the Battle of Fontenoy?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>1948</string>
+		<key>Wrong3</key>
+		<string>1593</string>
+	</dict>
+	<key>222</key>
+	<dict>
+		<key>Correct</key>
+		<string>1757</string>
+		<key>Question</key>
+		<string>When was the Battle of Leuthen?</string>
+		<key>Wrong1</key>
+		<string>1815</string>
+		<key>Wrong2</key>
+		<string>1639</string>
+		<key>Wrong3</key>
+		<string>1940</string>
+	</dict>
+	<key>223</key>
+	<dict>
+		<key>Correct</key>
+		<string>1758</string>
+		<key>Question</key>
+		<string>When was the Battle of Zorndorf?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>334 BC</string>
+		<key>Wrong3</key>
+		<string>1522</string>
+	</dict>
+	<key>224</key>
+	<dict>
+		<key>Correct</key>
+		<string>1761</string>
+		<key>Question</key>
+		<string>When was the Third Battle of Panipat?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>1634</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>225</key>
+	<dict>
+		<key>Correct</key>
+		<string>1796</string>
+		<key>Question</key>
+		<string>When was the Battle of Arcole?</string>
+		<key>Wrong1</key>
+		<string>1912</string>
+		<key>Wrong2</key>
+		<string>1915</string>
+		<key>Wrong3</key>
+		<string>1937</string>
+	</dict>
+	<key>226</key>
+	<dict>
+		<key>Correct</key>
+		<string>1800</string>
+		<key>Question</key>
+		<string>When was the Battle of Marengo?</string>
+		<key>Wrong1</key>
+		<string>1940</string>
+		<key>Wrong2</key>
+		<string>1241</string>
+		<key>Wrong3</key>
+		<string>1704</string>
+	</dict>
+	<key>227</key>
+	<dict>
+		<key>Correct</key>
+		<string>1805</string>
+		<key>Question</key>
+		<string>When was the Ulm Campaign?</string>
+		<key>Wrong1</key>
+		<string>1796</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1565</string>
+	</dict>
+	<key>228</key>
+	<dict>
+		<key>Correct</key>
+		<string>1805</string>
+		<key>Question</key>
+		<string>When was the Battle of Austerlitz?</string>
+		<key>Wrong1</key>
+		<string>334 BC</string>
+		<key>Wrong2</key>
+		<string>547 BC</string>
+		<key>Wrong3</key>
+		<string>1279</string>
+	</dict>
+	<key>229</key>
+	<dict>
+		<key>Correct</key>
+		<string>1806</string>
+		<key>Question</key>
+		<string>When was the Battle of Jena–Auerstedt?</string>
+		<key>Wrong1</key>
+		<string>1512</string>
+		<key>Wrong2</key>
+		<string>168 BC</string>
+		<key>Wrong3</key>
+		<string>633</string>
+	</dict>
+	<key>23</key>
+	<dict>
+		<key>Correct</key>
+		<string>1917</string>
+		<key>Question</key>
+		<string>When was the Tenth Battle of the Isonzo?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>1809</string>
+		<key>Wrong3</key>
+		<string>1916</string>
+	</dict>
+	<key>230</key>
+	<dict>
+		<key>Correct</key>
+		<string>1807</string>
+		<key>Question</key>
+		<string>When was the Battle of Eylau?</string>
+		<key>Wrong1</key>
+		<string>1757</string>
+		<key>Wrong2</key>
+		<string>1402</string>
+		<key>Wrong3</key>
+		<string>1800</string>
+	</dict>
+	<key>231</key>
+	<dict>
+		<key>Correct</key>
+		<string>1809</string>
+		<key>Question</key>
+		<string>When was the Battle of Wagram?</string>
+		<key>Wrong1</key>
+		<string>1593</string>
+		<key>Wrong2</key>
+		<string>1915</string>
+		<key>Wrong3</key>
+		<string>1630</string>
+	</dict>
+	<key>232</key>
+	<dict>
+		<key>Correct</key>
+		<string>1809</string>
+		<key>Question</key>
+		<string>When was the Battle of Talavera?</string>
+		<key>Wrong1</key>
+		<string>1939</string>
+		<key>Wrong2</key>
+		<string>1686</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>233</key>
+	<dict>
+		<key>Correct</key>
+		<string>1812</string>
+		<key>Question</key>
+		<string>When was the Battle of Salamanca?</string>
+		<key>Wrong1</key>
+		<string>1758</string>
+		<key>Wrong2</key>
+		<string>1937</string>
+		<key>Wrong3</key>
+		<string>480 BC</string>
+	</dict>
+	<key>234</key>
+	<dict>
+		<key>Correct</key>
+		<string>1812</string>
+		<key>Question</key>
+		<string>When was the Battle of Borodino?</string>
+		<key>Wrong1</key>
+		<string>1973</string>
+		<key>Wrong2</key>
+		<string>1982</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>235</key>
+	<dict>
+		<key>Correct</key>
+		<string>1812</string>
+		<key>Question</key>
+		<string>When was the Battle of Berezina?</string>
+		<key>Wrong1</key>
+		<string>1526</string>
+		<key>Wrong2</key>
+		<string>1863</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>236</key>
+	<dict>
+		<key>Correct</key>
+		<string>1813</string>
+		<key>Question</key>
+		<string>When was the Battle of Vitoria?</string>
+		<key>Wrong1</key>
+		<string>642</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>1939</string>
+	</dict>
+	<key>237</key>
+	<dict>
+		<key>Correct</key>
+		<string>1813</string>
+		<key>Question</key>
+		<string>When was the Battle of Leipzig?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>1698</string>
+		<key>Wrong3</key>
+		<string>1916</string>
+	</dict>
+	<key>238</key>
+	<dict>
+		<key>Correct</key>
+		<string>1815</string>
+		<key>Question</key>
+		<string>When was the Battle of Ligny?</string>
+		<key>Wrong1</key>
+		<string>1212</string>
+		<key>Wrong2</key>
+		<string>1950</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>239</key>
+	<dict>
+		<key>Correct</key>
+		<string>1815</string>
+		<key>Question</key>
+		<string>When was the Battle of Waterloo?</string>
+		<key>Wrong1</key>
+		<string>1862</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>633</string>
+	</dict>
+	<key>24</key>
+	<dict>
+		<key>Correct</key>
+		<string>1917</string>
+		<key>Question</key>
+		<string>When was the Third Battle of Ypres?</string>
+		<key>Wrong1</key>
+		<string>1916</string>
+		<key>Wrong2</key>
+		<string>1526</string>
+		<key>Wrong3</key>
+		<string>1937</string>
+	</dict>
+	<key>240</key>
+	<dict>
+		<key>Correct</key>
+		<string>1838</string>
+		<key>Question</key>
+		<string>When was the Battle of Blood River?</string>
+		<key>Wrong1</key>
+		<string>1632</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1757</string>
+	</dict>
+	<key>241</key>
+	<dict>
+		<key>Correct</key>
+		<string>1854</string>
+		<key>Question</key>
+		<string>When was the Battle of Inkerman?</string>
+		<key>Wrong1</key>
+		<string>1631</string>
+		<key>Wrong2</key>
+		<string>326 BC</string>
+		<key>Wrong3</key>
+		<string>1212</string>
+	</dict>
+	<key>242</key>
+	<dict>
+		<key>Correct</key>
+		<string>1862</string>
+		<key>Question</key>
+		<string>When was the Battle of Shiloh?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>1917</string>
+		<key>Wrong3</key>
+		<string>480 BC</string>
+	</dict>
+	<key>243</key>
+	<dict>
+		<key>Correct</key>
+		<string>1862</string>
+		<key>Question</key>
+		<string>When was the Battle of Antietam?</string>
+		<key>Wrong1</key>
+		<string>633</string>
+		<key>Wrong2</key>
+		<string>1968</string>
+		<key>Wrong3</key>
+		<string>1517</string>
+	</dict>
+	<key>244</key>
+	<dict>
+		<key>Correct</key>
+		<string>1862</string>
+		<key>Question</key>
+		<string>When was the Battle of Fredericksburg?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1745</string>
+		<key>Wrong3</key>
+		<string>1864</string>
+	</dict>
+	<key>245</key>
+	<dict>
+		<key>Correct</key>
+		<string>1863</string>
+		<key>Question</key>
+		<string>When was the Battle of Gettysburg?</string>
+		<key>Wrong1</key>
+		<string>1745</string>
+		<key>Wrong2</key>
+		<string>1807</string>
+		<key>Wrong3</key>
+		<string>331 BC</string>
+	</dict>
+	<key>246</key>
+	<dict>
+		<key>Correct</key>
+		<string>1863</string>
+		<key>Question</key>
+		<string>When was the Battle of Chickamauga?</string>
+		<key>Wrong1</key>
+		<string>612</string>
+		<key>Wrong2</key>
+		<string>1991</string>
+		<key>Wrong3</key>
+		<string>636</string>
+	</dict>
+	<key>247</key>
+	<dict>
+		<key>Correct</key>
+		<string>1700 BC</string>
+		<key>Question</key>
+		<string>When was the Hammurabi of Babylon law code written?</string>
+		<key>Wrong1</key>
+		<string>911</string>
+		<key>Wrong2</key>
+		<string>146 BC</string>
+		<key>Wrong3</key>
+		<string>622</string>
+	</dict>
+	<key>248</key>
+	<dict>
+		<key>Correct</key>
+		<string>1600 BC</string>
+		<key>Question</key>
+		<string>When was the Phoenician civilization Established?</string>
+		<key>Wrong1</key>
+		<string>508 BC</string>
+		<key>Wrong2</key>
+		<string>1700 BC</string>
+		<key>Wrong3</key>
+		<string>911</string>
+	</dict>
+	<key>249</key>
+	<dict>
+		<key>Correct</key>
+		<string>1450 BC</string>
+		<key>Question</key>
+		<string>When was the Exodus of Israel from Egypt?</string>
+		<key>Wrong1</key>
+		<string>508 BC</string>
+		<key>Wrong2</key>
+		<string>492 BC</string>
+		<key>Wrong3</key>
+		<string>509 BC</string>
+	</dict>
+	<key>25</key>
+	<dict>
+		<key>Correct</key>
+		<string>1917</string>
+		<key>Question</key>
+		<string>When was the Battle of Caporetto?</string>
+		<key>Wrong1</key>
+		<string>338 BC</string>
+		<key>Wrong2</key>
+		<string>1939</string>
+		<key>Wrong3</key>
+		<string>218 BC</string>
+	</dict>
+	<key>250</key>
+	<dict>
+		<key>Correct</key>
+		<string>1184 BC</string>
+		<key>Question</key>
+		<string>When was the Trojan War between Myceneae and Troy?</string>
+		<key>Wrong1</key>
+		<string>911</string>
+		<key>Wrong2</key>
+		<string>800</string>
+		<key>Wrong3</key>
+		<string>146 BC</string>
+	</dict>
+	<key>251</key>
+	<dict>
+		<key>Correct</key>
+		<string>960 BC</string>
+		<key>Question</key>
+		<string>When was the Temple of Solomon built?</string>
+		<key>Wrong1</key>
+		<string>509 BC</string>
+		<key>Wrong2</key>
+		<string>476</string>
+		<key>Wrong3</key>
+		<string>1184 BC</string>
+	</dict>
+	<key>252</key>
+	<dict>
+		<key>Correct</key>
+		<string>586 BC</string>
+		<key>Question</key>
+		<string>When was the Temple of Jerusalem destroyed?</string>
+		<key>Wrong1</key>
+		<string>1184 BC</string>
+		<key>Wrong2</key>
+		<string>146 BC</string>
+		<key>Wrong3</key>
+		<string>711</string>
+	</dict>
+	<key>253</key>
+	<dict>
+		<key>Correct</key>
+		<string>509 BC</string>
+		<key>Question</key>
+		<string>When was the Roman republic established?</string>
+		<key>Wrong1</key>
+		<string>146 BC</string>
+		<key>Wrong2</key>
+		<string>492 BC</string>
+		<key>Wrong3</key>
+		<string>711</string>
+	</dict>
+	<key>254</key>
+	<dict>
+		<key>Correct</key>
+		<string>508 BC</string>
+		<key>Question</key>
+		<string>When was the last Athenian tyrant overthrown?</string>
+		<key>Wrong1</key>
+		<string>800</string>
+		<key>Wrong2</key>
+		<string>1184 BC</string>
+		<key>Wrong3</key>
+		<string>509 BC</string>
+	</dict>
+	<key>255</key>
+	<dict>
+		<key>Correct</key>
+		<string>492 BC</string>
+		<key>Question</key>
+		<string>When was the The Greco-Persian War?</string>
+		<key>Wrong1</key>
+		<string>146 BC</string>
+		<key>Wrong2</key>
+		<string>476</string>
+		<key>Wrong3</key>
+		<string>1700 BC</string>
+	</dict>
+	<key>256</key>
+	<dict>
+		<key>Correct</key>
+		<string>330 BC</string>
+		<key>Question</key>
+		<string>When was the the Persian Empire conquered by Alexander?</string>
+		<key>Wrong1</key>
+		<string>476</string>
+		<key>Wrong2</key>
+		<string>711</string>
+		<key>Wrong3</key>
+		<string>492 BC</string>
+	</dict>
+	<key>257</key>
+	<dict>
+		<key>Correct</key>
+		<string>146 BC</string>
+		<key>Question</key>
+		<string>When was the end of the Third Punic War?</string>
+		<key>Wrong1</key>
+		<string>508 BC</string>
+		<key>Wrong2</key>
+		<string>586 BC</string>
+		<key>Wrong3</key>
+		<string>960 BC</string>
+	</dict>
+	<key>258</key>
+	<dict>
+		<key>Correct</key>
+		<string>622</string>
+		<key>Question</key>
+		<string>When was the flight of the Prophet Mohammed?</string>
+		<key>Wrong1</key>
+		<string>509 BC</string>
+		<key>Wrong2</key>
+		<string>586 BC</string>
+		<key>Wrong3</key>
+		<string>911</string>
+	</dict>
+	<key>259</key>
+	<dict>
+		<key>Correct</key>
+		<string>476</string>
+		<key>Question</key>
+		<string>When was the German sacking of Rome?</string>
+		<key>Wrong1</key>
+		<string>960 BC</string>
+		<key>Wrong2</key>
+		<string>1600 BC</string>
+		<key>Wrong3</key>
+		<string>1450 BC</string>
+	</dict>
+	<key>26</key>
+	<dict>
+		<key>Correct</key>
+		<string>1917</string>
+		<key>Question</key>
+		<string>When was the Battle of Cambrai?</string>
+		<key>Wrong1</key>
+		<string>1526</string>
+		<key>Wrong2</key>
+		<string>61 AD</string>
+		<key>Wrong3</key>
+		<string>1931</string>
+	</dict>
+	<key>260</key>
+	<dict>
+		<key>Correct</key>
+		<string>711</string>
+		<key>Question</key>
+		<string>When was the fall of the Visigothic kingdom of Spain?</string>
+		<key>Wrong1</key>
+		<string>146 BC</string>
+		<key>Wrong2</key>
+		<string>1600 BC</string>
+		<key>Wrong3</key>
+		<string>1450 BC</string>
+	</dict>
+	<key>261</key>
+	<dict>
+		<key>Correct</key>
+		<string>800</string>
+		<key>Question</key>
+		<string>When was the crowning of Charlemagne?</string>
+		<key>Wrong1</key>
+		<string>1450 BC</string>
+		<key>Wrong2</key>
+		<string>508 BC</string>
+		<key>Wrong3</key>
+		<string>509 BC</string>
+	</dict>
+	<key>262</key>
+	<dict>
+		<key>Correct</key>
+		<string>911</string>
+		<key>Question</key>
+		<string>When was the handover of Normandy to Rollo the Viking?</string>
+		<key>Wrong1</key>
+		<string>492 BC</string>
+		<key>Wrong2</key>
+		<string>622</string>
+		<key>Wrong3</key>
+		<string>1450 BC</string>
+	</dict>
+	<key>263</key>
+	<dict>
+		<key>Correct</key>
+		<string>405</string>
+		<key>Question</key>
+		<string>When did St. Jerome Finish the Vulgate.?</string>
+		<key>Wrong1</key>
+		<string>597</string>
+		<key>Wrong2</key>
+		<string>524</string>
+		<key>Wrong3</key>
+		<string>900</string>
+	</dict>
+	<key>264</key>
+	<dict>
+		<key>Correct</key>
+		<string>431</string>
+		<key>Question</key>
+		<string>When did the Council of Ephesus Happen?</string>
+		<key>Wrong1</key>
+		<string>524</string>
+		<key>Wrong2</key>
+		<string>793</string>
+		<key>Wrong3</key>
+		<string>960</string>
+	</dict>
+	<key>265</key>
+	<dict>
+		<key>Correct</key>
+		<string>507</string>
+		<key>Question</key>
+		<string>When did the Franks under Clovis defeat the Visigoths in the Battle of Vouillé?</string>
+		<key>Wrong1</key>
+		<string>843</string>
+		<key>Wrong2</key>
+		<string>524</string>
+		<key>Wrong3</key>
+		<string>960</string>
+	</dict>
+	<key>266</key>
+	<dict>
+		<key>Correct</key>
+		<string>524</string>
+		<key>Question</key>
+		<string>When did Boethius Write his Consolation of Philosophy?</string>
+		<key>Wrong1</key>
+		<string>405</string>
+		<key>Wrong2</key>
+		<string>962</string>
+		<key>Wrong3</key>
+		<string>827</string>
+	</dict>
+	<key>267</key>
+	<dict>
+		<key>Correct</key>
+		<string>525</string>
+		<key>Question</key>
+		<string>When did Dionysius Exiguus publish the Dionysius Exiguus&apos; Easter table?</string>
+		<key>Wrong1</key>
+		<string>527</string>
+		<key>Wrong2</key>
+		<string>843</string>
+		<key>Wrong3</key>
+		<string>698</string>
+	</dict>
+	<key>268</key>
+	<dict>
+		<key>Correct</key>
+		<string>527</string>
+		<key>Question</key>
+		<string>When did Justinian I become Eastern Roman Emperor?</string>
+		<key>Wrong1</key>
+		<string>525</string>
+		<key>Wrong2</key>
+		<string>960</string>
+		<key>Wrong3</key>
+		<string>629</string>
+	</dict>
+	<key>269</key>
+	<dict>
+		<key>Correct</key>
+		<string>590</string>
+		<key>Question</key>
+		<string>When did Gregory the Great become Pope?</string>
+		<key>Wrong1</key>
+		<string>768</string>
+		<key>Wrong2</key>
+		<string>609</string>
+		<key>Wrong3</key>
+		<string>622</string>
+	</dict>
+	<key>27</key>
+	<dict>
+		<key>Correct</key>
+		<string>1918</string>
+		<key>Question</key>
+		<string>When was the Spring Offensive?</string>
+		<key>Wrong1</key>
+		<string>1940</string>
+		<key>Wrong2</key>
+		<string>1813</string>
+		<key>Wrong3</key>
+		<string>1942</string>
+	</dict>
+	<key>270</key>
+	<dict>
+		<key>Correct</key>
+		<string>597</string>
+		<key>Question</key>
+		<string>When did Augustine arrive in Kent?</string>
+		<key>Wrong1</key>
+		<string>431</string>
+		<key>Wrong2</key>
+		<string>609</string>
+		<key>Wrong3</key>
+		<string>622</string>
+	</dict>
+	<key>271</key>
+	<dict>
+		<key>Correct</key>
+		<string>629</string>
+		<key>Question</key>
+		<string>When did the last great Roman-Persian War end?</string>
+		<key>Wrong1</key>
+		<string>960</string>
+		<key>Wrong2</key>
+		<string>507</string>
+		<key>Wrong3</key>
+		<string>525</string>
+	</dict>
+	<key>272</key>
+	<dict>
+		<key>Correct</key>
+		<string>609</string>
+		<key>Question</key>
+		<string>When did the Grand Canal in China get finished?</string>
+		<key>Wrong1</key>
+		<string>843</string>
+		<key>Wrong2</key>
+		<string>431</string>
+		<key>Wrong3</key>
+		<string>900</string>
+	</dict>
+	<key>273</key>
+	<dict>
+		<key>Correct</key>
+		<string>622</string>
+		<key>Question</key>
+		<string>When did Muhammad migrate from Mecca to Medina?</string>
+		<key>Wrong1</key>
+		<string>645</string>
+		<key>Wrong2</key>
+		<string>960</string>
+		<key>Wrong3</key>
+		<string>874</string>
+	</dict>
+	<key>274</key>
+	<dict>
+		<key>Correct</key>
+		<string>632</string>
+		<key>Question</key>
+		<string>When did Muhammad die?</string>
+		<key>Wrong1</key>
+		<string>827</string>
+		<key>Wrong2</key>
+		<string>900</string>
+		<key>Wrong3</key>
+		<string>525</string>
+	</dict>
+	<key>275</key>
+	<dict>
+		<key>Correct</key>
+		<string>633</string>
+		<key>Question</key>
+		<string>When did the Battle of Heavenfield happen?</string>
+		<key>Wrong1</key>
+		<string>800</string>
+		<key>Wrong2</key>
+		<string>622</string>
+		<key>Wrong3</key>
+		<string>768</string>
+	</dict>
+	<key>276</key>
+	<dict>
+		<key>Correct</key>
+		<string>643</string>
+		<key>Question</key>
+		<string>When did the Arab Army led by Omar Ibn Al-&apos;Aas take Alexandria?</string>
+		<key>Wrong1</key>
+		<string>698</string>
+		<key>Wrong2</key>
+		<string>843</string>
+		<key>Wrong3</key>
+		<string>524</string>
+	</dict>
+	<key>277</key>
+	<dict>
+		<key>Correct</key>
+		<string>645</string>
+		<key>Question</key>
+		<string>When did the Soga clan in Japan fall?</string>
+		<key>Wrong1</key>
+		<string>633</string>
+		<key>Wrong2</key>
+		<string>866</string>
+		<key>Wrong3</key>
+		<string>698</string>
+	</dict>
+	<key>278</key>
+	<dict>
+		<key>Correct</key>
+		<string>698</string>
+		<key>Question</key>
+		<string>When did an Arab army take Carthage??</string>
+		<key>Wrong1</key>
+		<string>622</string>
+		<key>Wrong2</key>
+		<string>507</string>
+		<key>Wrong3</key>
+		<string>866</string>
+	</dict>
+	<key>279</key>
+	<dict>
+		<key>Correct</key>
+		<string>768</string>
+		<key>Question</key>
+		<string>When did the reign of Charlemagne start?</string>
+		<key>Wrong1</key>
+		<string>609</string>
+		<key>Wrong2</key>
+		<string>843</string>
+		<key>Wrong3</key>
+		<string>962</string>
+	</dict>
+	<key>28</key>
+	<dict>
+		<key>Correct</key>
+		<string>1918</string>
+		<key>Question</key>
+		<string>When was the Second Battle of the Marne?</string>
+		<key>Wrong1</key>
+		<string>1920</string>
+		<key>Wrong2</key>
+		<string>383</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>280</key>
+	<dict>
+		<key>Correct</key>
+		<string>793</string>
+		<key>Question</key>
+		<string>When did the sacking of Lindisfarne by the brave Vikings happen?</string>
+		<key>Wrong1</key>
+		<string>622</string>
+		<key>Wrong2</key>
+		<string>609</string>
+		<key>Wrong3</key>
+		<string>597</string>
+	</dict>
+	<key>281</key>
+	<dict>
+		<key>Correct</key>
+		<string>800</string>
+		<key>Question</key>
+		<string>When did Charlemagne get crowned Holy Roman Emperor?</string>
+		<key>Wrong1</key>
+		<string>527</string>
+		<key>Wrong2</key>
+		<string>632</string>
+		<key>Wrong3</key>
+		<string>960</string>
+	</dict>
+	<key>282</key>
+	<dict>
+		<key>Correct</key>
+		<string>800</string>
+		<key>Question</key>
+		<string>When did Gunpowder get invented?</string>
+		<key>Wrong1</key>
+		<string>872</string>
+		<key>Wrong2</key>
+		<string>827</string>
+		<key>Wrong3</key>
+		<string>507</string>
+	</dict>
+	<key>283</key>
+	<dict>
+		<key>Correct</key>
+		<string>827</string>
+		<key>Question</key>
+		<string>When did Muslims invade Sicily?</string>
+		<key>Wrong1</key>
+		<string>609</string>
+		<key>Wrong2</key>
+		<string>633</string>
+		<key>Wrong3</key>
+		<string>632</string>
+	</dict>
+	<key>284</key>
+	<dict>
+		<key>Correct</key>
+		<string>840</string>
+		<key>Question</key>
+		<string>When did Muslims capture Bari and much of southern Italy?</string>
+		<key>Wrong1</key>
+		<string>962</string>
+		<key>Wrong2</key>
+		<string>645</string>
+		<key>Wrong3</key>
+		<string>524</string>
+	</dict>
+	<key>285</key>
+	<dict>
+		<key>Correct</key>
+		<string>843</string>
+		<key>Question</key>
+		<string>When did Kenneth McAlpin become king of the Picts and Scots?</string>
+		<key>Wrong1</key>
+		<string>597</string>
+		<key>Wrong2</key>
+		<string>827</string>
+		<key>Wrong3</key>
+		<string>629</string>
+	</dict>
+	<key>286</key>
+	<dict>
+		<key>Correct</key>
+		<string>866</string>
+		<key>Question</key>
+		<string>When did the Viking &quot;great Army&quot; arrive in England?</string>
+		<key>Wrong1</key>
+		<string>874</string>
+		<key>Wrong2</key>
+		<string>768</string>
+		<key>Wrong3</key>
+		<string>645</string>
+	</dict>
+	<key>287</key>
+	<dict>
+		<key>Correct</key>
+		<string>872</string>
+		<key>Question</key>
+		<string>When did Harold Fairhair become King of Norway?</string>
+		<key>Wrong1</key>
+		<string>885</string>
+		<key>Wrong2</key>
+		<string>431</string>
+		<key>Wrong3</key>
+		<string>629</string>
+	</dict>
+	<key>288</key>
+	<dict>
+		<key>Correct</key>
+		<string>874</string>
+		<key>Question</key>
+		<string>When did Iceland get settled by Norsemen?</string>
+		<key>Wrong1</key>
+		<string>827</string>
+		<key>Wrong2</key>
+		<string>609</string>
+		<key>Wrong3</key>
+		<string>643</string>
+	</dict>
+	<key>289</key>
+	<dict>
+		<key>Correct</key>
+		<string>885</string>
+		<key>Question</key>
+		<string>When did the fearless Vikings attack Paris?</string>
+		<key>Wrong1</key>
+		<string>633</string>
+		<key>Wrong2</key>
+		<string>960</string>
+		<key>Wrong3</key>
+		<string>874</string>
+	</dict>
+	<key>29</key>
+	<dict>
+		<key>Correct</key>
+		<string>1920</string>
+		<key>Question</key>
+		<string>When was the Battle of Warsaw?</string>
+		<key>Wrong1</key>
+		<string>1813</string>
+		<key>Wrong2</key>
+		<string>1917</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>290</key>
+	<dict>
+		<key>Correct</key>
+		<string>900</string>
+		<key>Question</key>
+		<string>When did the Mayan Empire collapse?</string>
+		<key>Wrong1</key>
+		<string>590</string>
+		<key>Wrong2</key>
+		<string>866</string>
+		<key>Wrong3</key>
+		<string>964</string>
+	</dict>
+	<key>291</key>
+	<dict>
+		<key>Correct</key>
+		<string>907</string>
+		<key>Question</key>
+		<string>When did the Tang Dynasty end?</string>
+		<key>Wrong1</key>
+		<string>629</string>
+		<key>Wrong2</key>
+		<string>507</string>
+		<key>Wrong3</key>
+		<string>632</string>
+	</dict>
+	<key>292</key>
+	<dict>
+		<key>Correct</key>
+		<string>936</string>
+		<key>Question</key>
+		<string>When did Wang Geon unify the Later Three Kingdoms of Korea?</string>
+		<key>Wrong1</key>
+		<string>645</string>
+		<key>Wrong2</key>
+		<string>431</string>
+		<key>Wrong3</key>
+		<string>800</string>
+	</dict>
+	<key>293</key>
+	<dict>
+		<key>Correct</key>
+		<string>960</string>
+		<key>Question</key>
+		<string>When did Mieszko I become duke of Polans?</string>
+		<key>Wrong1</key>
+		<string>872</string>
+		<key>Wrong2</key>
+		<string>524</string>
+		<key>Wrong3</key>
+		<string>962</string>
+	</dict>
+	<key>294</key>
+	<dict>
+		<key>Correct</key>
+		<string>960</string>
+		<key>Question</key>
+		<string>When did Song Dynasty Begin?</string>
+		<key>Wrong1</key>
+		<string>629</string>
+		<key>Wrong2</key>
+		<string>885</string>
+		<key>Wrong3</key>
+		<string>431</string>
+	</dict>
+	<key>295</key>
+	<dict>
+		<key>Correct</key>
+		<string>962</string>
+		<key>Question</key>
+		<string>When did Otto the Great get crowned the Holy Roman Emperor?</string>
+		<key>Wrong1</key>
+		<string>900</string>
+		<key>Wrong2</key>
+		<string>527</string>
+		<key>Wrong3</key>
+		<string>964</string>
+	</dict>
+	<key>296</key>
+	<dict>
+		<key>Correct</key>
+		<string>964</string>
+		<key>Question</key>
+		<string>When did Otto depose Pope John XII?</string>
+		<key>Wrong1</key>
+		<string>866</string>
+		<key>Wrong2</key>
+		<string>645</string>
+		<key>Wrong3</key>
+		<string>431</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>Correct</key>
+		<string>1912</string>
+		<key>Question</key>
+		<string>When was the First Battle of Çatalca?</string>
+		<key>Wrong1</key>
+		<string>1904</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1698</string>
+	</dict>
+	<key>30</key>
+	<dict>
+		<key>Correct</key>
+		<string>1931</string>
+		<key>Question</key>
+		<string>When was the Invasion of Manchuria?</string>
+		<key>Wrong1</key>
+		<string>1948</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1945</string>
+	</dict>
+	<key>31</key>
+	<dict>
+		<key>Correct</key>
+		<string>1937</string>
+		<key>Question</key>
+		<string>When was the Battle of Guadalajara?</string>
+		<key>Wrong1</key>
+		<string>1943</string>
+		<key>Wrong2</key>
+		<string>1693</string>
+		<key>Wrong3</key>
+		<string>280 BC</string>
+	</dict>
+	<key>32</key>
+	<dict>
+		<key>Correct</key>
+		<string>1937</string>
+		<key>Question</key>
+		<string>When was the Battle of Teruel?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>1941</string>
+		<key>Wrong3</key>
+		<string>1314</string>
+	</dict>
+	<key>33</key>
+	<dict>
+		<key>Correct</key>
+		<string>1938</string>
+		<key>Question</key>
+		<string>When was the Battle of the Ebro?</string>
+		<key>Wrong1</key>
+		<string>1813</string>
+		<key>Wrong2</key>
+		<string>1877</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>34</key>
+	<dict>
+		<key>Correct</key>
+		<string>1938</string>
+		<key>Question</key>
+		<string>When was the Battle of Xuzhou?</string>
+		<key>Wrong1</key>
+		<string>1565</string>
+		<key>Wrong2</key>
+		<string>1939</string>
+		<key>Wrong3</key>
+		<string>633</string>
+	</dict>
+	<key>35</key>
+	<dict>
+		<key>Correct</key>
+		<string>1938</string>
+		<key>Question</key>
+		<string>When was the Yellow River Flood?</string>
+		<key>Wrong1</key>
+		<string>1905</string>
+		<key>Wrong2</key>
+		<string>378</string>
+		<key>Wrong3</key>
+		<string>61 AD</string>
+	</dict>
+	<key>36</key>
+	<dict>
+		<key>Correct</key>
+		<string>1939</string>
+		<key>Question</key>
+		<string>When was the Battles of Khalkhin Gol?</string>
+		<key>Wrong1</key>
+		<string>1187</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>37</key>
+	<dict>
+		<key>Correct</key>
+		<string>1939</string>
+		<key>Question</key>
+		<string>When was the Invasion of Poland?</string>
+		<key>Wrong1</key>
+		<string>1916</string>
+		<key>Wrong2</key>
+		<string>1698</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>38</key>
+	<dict>
+		<key>Correct</key>
+		<string>1939</string>
+		<key>Question</key>
+		<string>When was the Battle of Suixian–Zaoyang?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>61 AD</string>
+		<key>Wrong3</key>
+		<string>1651</string>
+	</dict>
+	<key>39</key>
+	<dict>
+		<key>Correct</key>
+		<string>1939</string>
+		<key>Question</key>
+		<string>When was the Winter War?</string>
+		<key>Wrong1</key>
+		<string>1809</string>
+		<key>Wrong2</key>
+		<string>1912</string>
+		<key>Wrong3</key>
+		<string>280 BC</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>Correct</key>
+		<string>1913</string>
+		<key>Question</key>
+		<string>When was the Battle of Bregalnica?</string>
+		<key>Wrong1</key>
+		<string>1954</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>40</key>
+	<dict>
+		<key>Correct</key>
+		<string>1939</string>
+		<key>Question</key>
+		<string>When was the Winter Offensive?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>1917</string>
+		<key>Wrong3</key>
+		<string>1854</string>
+	</dict>
+	<key>41</key>
+	<dict>
+		<key>Correct</key>
+		<string>1940</string>
+		<key>Question</key>
+		<string>When was the Operation Weserübung?</string>
+		<key>Wrong1</key>
+		<string>1402</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1939</string>
+	</dict>
+	<key>42</key>
+	<dict>
+		<key>Correct</key>
+		<string>1940</string>
+		<key>Question</key>
+		<string>When was the Battle of France?</string>
+		<key>Wrong1</key>
+		<string>1812</string>
+		<key>Wrong2</key>
+		<string>1943</string>
+		<key>Wrong3</key>
+		<string>1918</string>
+	</dict>
+	<key>43</key>
+	<dict>
+		<key>Correct</key>
+		<string>1940</string>
+		<key>Question</key>
+		<string>When was the Hundred Regiments Offensive?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>717</string>
+		<key>Wrong3</key>
+		<string>1948</string>
+	</dict>
+	<key>44</key>
+	<dict>
+		<key>Correct</key>
+		<string>1940</string>
+		<key>Question</key>
+		<string>When was the Greco-Italian War?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>1258</string>
+		<key>Wrong3</key>
+		<string>1745</string>
+	</dict>
+	<key>45</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Keren?</string>
+		<key>Wrong1</key>
+		<string>1522</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>216 BC</string>
+	</dict>
+	<key>46</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Greece?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1693</string>
+		<key>Wrong3</key>
+		<string>1920</string>
+	</dict>
+	<key>47</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Shanggao?</string>
+		<key>Wrong1</key>
+		<string>1968</string>
+		<key>Wrong2</key>
+		<string>614</string>
+		<key>Wrong3</key>
+		<string>1757</string>
+	</dict>
+	<key>48</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Crete?</string>
+		<key>Wrong1</key>
+		<string>1241</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>49</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Operation Barbarossa?</string>
+		<key>Wrong1</key>
+		<string>105 BC</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1808</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>Correct</key>
+		<string>1914</string>
+		<key>Question</key>
+		<string>When was the The Rape of Belgium?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>208</string>
+	</dict>
+	<key>50</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Moscow?</string>
+		<key>Wrong1</key>
+		<string>1571</string>
+		<key>Wrong2</key>
+		<string>333 BC</string>
+		<key>Wrong3</key>
+		<string>1212</string>
+	</dict>
+	<key>51</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Hong Kong?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>1914</string>
+		<key>Wrong3</key>
+		<string>105 BC</string>
+	</dict>
+	<key>52</key>
+	<dict>
+		<key>Correct</key>
+		<string>1941</string>
+		<key>Question</key>
+		<string>When was the Battle of Singapore?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>168 BC</string>
+		<key>Wrong3</key>
+		<string>1948</string>
+	</dict>
+	<key>53</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Battle of Bataan?</string>
+		<key>Wrong1</key>
+		<string>84 AD</string>
+		<key>Wrong2</key>
+		<string>1526</string>
+		<key>Wrong3</key>
+		<string>105 BC</string>
+	</dict>
+	<key>54</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Battle of the Kerch Peninsula?</string>
+		<key>Wrong1</key>
+		<string>208</string>
+		<key>Wrong2</key>
+		<string>1918</string>
+		<key>Wrong3</key>
+		<string>84 AD</string>
+	</dict>
+	<key>55</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Second Battle of Kharkov?</string>
+		<key>Wrong1</key>
+		<string>1522</string>
+		<key>Wrong2</key>
+		<string>1761</string>
+		<key>Wrong3</key>
+		<string>1659</string>
+	</dict>
+	<key>56</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Zhejiang-Jiangxi Campaign?</string>
+		<key>Wrong1</key>
+		<string>1938</string>
+		<key>Wrong2</key>
+		<string>9 AD</string>
+		<key>Wrong3</key>
+		<string>326 BC</string>
+	</dict>
+	<key>57</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Battle of Gazala?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>1592</string>
+		<key>Wrong3</key>
+		<string>1398</string>
+	</dict>
+	<key>58</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Guadalcanal Campaign?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>2003</string>
+		<key>Wrong3</key>
+		<string>1651</string>
+	</dict>
+	<key>59</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Second Battle of El Alamein?</string>
+		<key>Wrong1</key>
+		<string>1805</string>
+		<key>Wrong2</key>
+		<string>1745</string>
+		<key>Wrong3</key>
+		<string>1812</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>Correct</key>
+		<string>1914</string>
+		<key>Question</key>
+		<string>When was the Battle of Tannenberg?</string>
+		<key>Wrong1</key>
+		<string>1943</string>
+		<key>Wrong2</key>
+		<string>1912</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>60</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Operation Iskra?</string>
+		<key>Wrong1</key>
+		<string>1812</string>
+		<key>Wrong2</key>
+		<string>1916</string>
+		<key>Wrong3</key>
+		<string>1937</string>
+	</dict>
+	<key>61</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Battle of Kursk?</string>
+		<key>Wrong1</key>
+		<string>207 BC</string>
+		<key>Wrong2</key>
+		<string>1918</string>
+		<key>Wrong3</key>
+		<string>1950</string>
+	</dict>
+	<key>62</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Dnieper Campaign?</string>
+		<key>Wrong1</key>
+		<string>168 BC</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>63</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Allied invasion of Sicily?</string>
+		<key>Wrong1</key>
+		<string>1914</string>
+		<key>Wrong2</key>
+		<string>190 BC</string>
+		<key>Wrong3</key>
+		<string>1944</string>
+	</dict>
+	<key>64</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Allied invasion of Italy?</string>
+		<key>Wrong1</key>
+		<string>1812</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1686</string>
+	</dict>
+	<key>65</key>
+	<dict>
+		<key>Correct</key>
+		<string>1943</string>
+		<key>Question</key>
+		<string>When was the Bougainville Campaign?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1813</string>
+		<key>Wrong3</key>
+		<string>1634</string>
+	</dict>
+	<key>66</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Battle of Monte Cassino?</string>
+		<key>Wrong1</key>
+		<string>1942</string>
+		<key>Wrong2</key>
+		<string>1812</string>
+		<key>Wrong3</key>
+		<string>1627</string>
+	</dict>
+	<key>67</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Battle of Narva?</string>
+		<key>Wrong1</key>
+		<string>1916</string>
+		<key>Wrong2</key>
+		<string>1940</string>
+		<key>Wrong3</key>
+		<string>1939</string>
+	</dict>
+	<key>68</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Operation Shingle?</string>
+		<key>Wrong1</key>
+		<string>1571</string>
+		<key>Wrong2</key>
+		<string>1757</string>
+		<key>Wrong3</key>
+		<string>1949</string>
+	</dict>
+	<key>69</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Ichi-Go?</string>
+		<key>Wrong1</key>
+		<string>1914</string>
+		<key>Wrong2</key>
+		<string>1521</string>
+		<key>Wrong3</key>
+		<string>1693</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>Correct</key>
+		<string>1914</string>
+		<key>Question</key>
+		<string>When was the First Battle of the Marne?</string>
+		<key>Wrong1</key>
+		<string>479 BC</string>
+		<key>Wrong2</key>
+		<string>1704</string>
+		<key>Wrong3</key>
+		<string>1916</string>
+	</dict>
+	<key>70</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Normandy landings?</string>
+		<key>Wrong1</key>
+		<string>1941</string>
+		<key>Wrong2</key>
+		<string>1279</string>
+		<key>Wrong3</key>
+		<string>1565</string>
+	</dict>
+	<key>71</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the First Jassy–Kishinev Offensive?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>1945</string>
+		<key>Wrong3</key>
+		<string>1862</string>
+	</dict>
+	<key>72</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Battle of Saipan?</string>
+		<key>Wrong1</key>
+		<string>1512</string>
+		<key>Wrong2</key>
+		<string>1863</string>
+		<key>Wrong3</key>
+		<string>1968</string>
+	</dict>
+	<key>73</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Operation Bagration?</string>
+		<key>Wrong1</key>
+		<string>1950</string>
+		<key>Wrong2</key>
+		<string>1982</string>
+		<key>Wrong3</key>
+		<string>1948</string>
+	</dict>
+	<key>74</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Falaise pocket?</string>
+		<key>Wrong1</key>
+		<string>1693</string>
+		<key>Wrong2</key>
+		<string>1916</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>75</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Operation Market Garden?</string>
+		<key>Wrong1</key>
+		<string>1697</string>
+		<key>Wrong2</key>
+		<string>53 BC</string>
+		<key>Wrong3</key>
+		<string>1905</string>
+	</dict>
+	<key>76</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Battle of Hürtgen Forest?</string>
+		<key>Wrong1</key>
+		<string>1937</string>
+		<key>Wrong2</key>
+		<string>479 BC</string>
+		<key>Wrong3</key>
+		<string>1796</string>
+	</dict>
+	<key>77</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Battle of Leyte Gulf?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>1863</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>78</key>
+	<dict>
+		<key>Correct</key>
+		<string>1944</string>
+		<key>Question</key>
+		<string>When was the Battle of the Bulge?</string>
+		<key>Wrong1</key>
+		<string>1948</string>
+		<key>Wrong2</key>
+		<string>1808</string>
+		<key>Wrong3</key>
+		<string>1915</string>
+	</dict>
+	<key>79</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Battle of Luzon?</string>
+		<key>Wrong1</key>
+		<string>451</string>
+		<key>Wrong2</key>
+		<string>1279</string>
+		<key>Wrong3</key>
+		<string>547 BC</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>Correct</key>
+		<string>1914</string>
+		<key>Question</key>
+		<string>When was the First Battle of Ypres?</string>
+		<key>Wrong1</key>
+		<string>1121</string>
+		<key>Wrong2</key>
+		<string>216 BC</string>
+		<key>Wrong3</key>
+		<string>1757</string>
+	</dict>
+	<key>80</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Battle of the Rhineland?</string>
+		<key>Wrong1</key>
+		<string>1593</string>
+		<key>Wrong2</key>
+		<string>1942</string>
+		<key>Wrong3</key>
+		<string>1187</string>
+	</dict>
+	<key>81</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Battle of Iwo Jima?</string>
+		<key>Wrong1</key>
+		<string>451</string>
+		<key>Wrong2</key>
+		<string>1593</string>
+		<key>Wrong3</key>
+		<string>1912</string>
+	</dict>
+	<key>82</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Battle of Okinawa?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>208</string>
+		<key>Wrong3</key>
+		<string>1709</string>
+	</dict>
+	<key>83</key>
+	<dict>
+		<key>Correct</key>
+		<string>1942</string>
+		<key>Question</key>
+		<string>When was the Burma Campaigns?</string>
+		<key>Wrong1</key>
+		<string>1838</string>
+		<key>Wrong2</key>
+		<string>1914</string>
+		<key>Wrong3</key>
+		<string>280 BC</string>
+	</dict>
+	<key>84</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Battle of West Hunan?</string>
+		<key>Wrong1</key>
+		<string>633</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>1279</string>
+	</dict>
+	<key>85</key>
+	<dict>
+		<key>Correct</key>
+		<string>1945</string>
+		<key>Question</key>
+		<string>When was the Second Guangxi Campaign?</string>
+		<key>Wrong1</key>
+		<string>1697</string>
+		<key>Wrong2</key>
+		<string>1950</string>
+		<key>Wrong3</key>
+		<string>614</string>
+	</dict>
+	<key>86</key>
+	<dict>
+		<key>Correct</key>
+		<string>1948</string>
+		<key>Question</key>
+		<string>When was the Arab–Israeli War?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>1944</string>
+		<key>Wrong3</key>
+		<string>168 BC</string>
+	</dict>
+	<key>87</key>
+	<dict>
+		<key>Correct</key>
+		<string>1948</string>
+		<key>Question</key>
+		<string>When was the Liaoshen Campaign?</string>
+		<key>Wrong1</key>
+		<string>1944</string>
+		<key>Wrong2</key>
+		<string>70</string>
+		<key>Wrong3</key>
+		<string>633</string>
+	</dict>
+	<key>88</key>
+	<dict>
+		<key>Correct</key>
+		<string>1948</string>
+		<key>Question</key>
+		<string>When was the Huaihai Campaign?</string>
+		<key>Wrong1</key>
+		<string>1916</string>
+		<key>Wrong2</key>
+		<string>1212</string>
+		<key>Wrong3</key>
+		<string>1864</string>
+	</dict>
+	<key>89</key>
+	<dict>
+		<key>Correct</key>
+		<string>1948</string>
+		<key>Question</key>
+		<string>When was the Pingjin Campaign?</string>
+		<key>Wrong1</key>
+		<string>1517</string>
+		<key>Wrong2</key>
+		<string>1915</string>
+		<key>Wrong3</key>
+		<string>1402</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>Correct</key>
+		<string>1914</string>
+		<key>Question</key>
+		<string>When was the Battle of Łódź?</string>
+		<key>Wrong1</key>
+		<string>1982</string>
+		<key>Wrong2</key>
+		<string>1916</string>
+		<key>Wrong3</key>
+		<string>1954</string>
+	</dict>
+	<key>90</key>
+	<dict>
+		<key>Correct</key>
+		<string>1949</string>
+		<key>Question</key>
+		<string>When was the Shanghai Campaign?</string>
+		<key>Wrong1</key>
+		<string>1877</string>
+		<key>Wrong2</key>
+		<string>1517</string>
+		<key>Wrong3</key>
+		<string>1800</string>
+	</dict>
+	<key>91</key>
+	<dict>
+		<key>Correct</key>
+		<string>1950</string>
+		<key>Question</key>
+		<string>When was the Battle of Inchon?</string>
+		<key>Wrong1</key>
+		<string>479 BC</string>
+		<key>Wrong2</key>
+		<string>1938</string>
+		<key>Wrong3</key>
+		<string>1931</string>
+	</dict>
+	<key>92</key>
+	<dict>
+		<key>Correct</key>
+		<string>1950</string>
+		<key>Question</key>
+		<string>When was the Invasion of North Korea?</string>
+		<key>Wrong1</key>
+		<string>1939</string>
+		<key>Wrong2</key>
+		<string>1698</string>
+		<key>Wrong3</key>
+		<string>1918</string>
+	</dict>
+	<key>93</key>
+	<dict>
+		<key>Correct</key>
+		<string>1954</string>
+		<key>Question</key>
+		<string>When was the Battle of Dien Bien Phu?</string>
+		<key>Wrong1</key>
+		<string>207 BC</string>
+		<key>Wrong2</key>
+		<string>1709</string>
+		<key>Wrong3</key>
+		<string>1863</string>
+	</dict>
+	<key>94</key>
+	<dict>
+		<key>Correct</key>
+		<string>1968</string>
+		<key>Question</key>
+		<string>When was the Tet Offensive?</string>
+		<key>Wrong1</key>
+		<string>1939</string>
+		<key>Wrong2</key>
+		<string>1807</string>
+		<key>Wrong3</key>
+		<string>168 BC</string>
+	</dict>
+	<key>95</key>
+	<dict>
+		<key>Correct</key>
+		<string>1968</string>
+		<key>Question</key>
+		<string>When was the Operation OAU?</string>
+		<key>Wrong1</key>
+		<string>1915</string>
+		<key>Wrong2</key>
+		<string>1659</string>
+		<key>Wrong3</key>
+		<string>326 BC</string>
+	</dict>
+	<key>96</key>
+	<dict>
+		<key>Correct</key>
+		<string>1972</string>
+		<key>Question</key>
+		<string>When was the Easter Offensive?</string>
+		<key>Wrong1</key>
+		<string>1939</string>
+		<key>Wrong2</key>
+		<string>1592</string>
+		<key>Wrong3</key>
+		<string>1815</string>
+	</dict>
+	<key>97</key>
+	<dict>
+		<key>Correct</key>
+		<string>1973</string>
+		<key>Question</key>
+		<string>When was the Yom Kippur War?</string>
+		<key>Wrong1</key>
+		<string>1380</string>
+		<key>Wrong2</key>
+		<string>1937</string>
+		<key>Wrong3</key>
+		<string>1941</string>
+	</dict>
+	<key>98</key>
+	<dict>
+		<key>Correct</key>
+		<string>1982</string>
+		<key>Question</key>
+		<string>When was the Falklands War?</string>
+		<key>Wrong1</key>
+		<string>1945</string>
+		<key>Wrong2</key>
+		<string>1862</string>
+		<key>Wrong3</key>
+		<string>1943</string>
+	</dict>
+	<key>99</key>
+	<dict>
+		<key>Correct</key>
+		<string>1982</string>
+		<key>Question</key>
+		<string>When was the 1982 Lebanon War?</string>
+		<key>Wrong1</key>
+		<string>1912</string>
+		<key>Wrong2</key>
+		<string>1948</string>
+		<key>Wrong3</key>
+		<string>547 BC</string>
+	</dict>
+</dict>
+</plist>

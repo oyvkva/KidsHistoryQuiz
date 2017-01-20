@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Alla sparade konton kommer att förloras.";
+"API Access Denied." = "API åtkomst nekad.";
+"Class code:" = "Klass kod:";
+"Clear list" = "Rensa lista";
+"(Ask teacher or leave empty)" = "(Fråga en lärare eller lämna blank)";
+"email" = "e-post";
+"Email:" = "E-post:";
+"Email does not exist." = "E-post finns inte.";
+"Email already exists." = "E-post finns redan.";
+"Error" = "Error";
+"Password:" = "Lösenord:";
+"password" = "lösenord";
+"Password is too short, 8+ characters needed." = "Lösenord är för kort, 8+ karaktärer behövs.";
+"Please fill in email and password." = "Var snäll och skriv in ditt e-post och lösenord.";
+"Please fill in your email." = "Var snäll och skriv in din e-post.";
+"Please sign up with your email and choose a password." = "Var snäll och skriv in e-post och välj lösenord.";
+"Class code is not correct, please try again." = "Klass koden är fel, var snäll och försök igen.";
+"Profile" = "Profil";
+"Profile updated." = "Profil updaterad.";
+"Joined class:" = "Ansluten till klass:";
+"Invalid email." = "Fel e-post.";
+"Log in with email and password." = "Logg inn med e-post og lösenord.";
+"No internet connection." = "Ingen internet anslutning.";
+"Offline" = "Offline";
+"Tasks done" = "Uppgifter avklarade";
+"Success" = "Suksess";
+"Welcome back" = "Välkommen tillbaka";
+"Write your email and we will send you a reset password link." = "Skriv ner din e-post så skickar vi länken för att återställa ditt lösenord.";
+"Wrong password." = "Fel lösenord.";
+
+// Buttons
+"Account list" = "Konto lista";
+"Add account" = "Lägg till konto";
+"Cancel" = "Avbryt";
+"Forgot password?" = "Glömt lösenord?";
+"Save" = "Spara";
+"Select account" = "Välj konto";
+"Sign up" = "Registrera dig";
+"Tap on your account to log in." = "Tryck på ditt konto för att logga in.";
+"Highscore" = "Rekord";
+"hours" = "timmar";
+"Log in" = "Logga in";
+"minutes" = "minuter";
+"Name:" = "Namn:";
+"OK" = "OK";
+"Choose profile image:" = "Välj profilbild:";
+"Edit profile" = "Redigera profil";
+"Reload" = "Ladda om";
+"Reset password" = "Återställ lösenord";
+"Skills" = "Färdigheter";
+"Statistics" = "Statistik";
+
+// Name of topics:
+"Addition" = "Addition";
+"Algebra" = "Algebra";
+"Alphabet" = "Alfabet";
+"Biology" = "Biologi";
+"Chemistry" = "Kemi";
+"Counting" = "Räkning";
+"Division" = "Division";
+"Geography" = "Geografi";
+"Geometry" = "Geometry";
+"History" = "Historia";
+"Language" = "Språk";
+"Multiplication" = "Multiplikation";
+"Physics" = "Fysik";
+"Politics" = "Politik";
+"Reading" = "Läsning";
+"Science" = "Vetenskap";
+"Subtraction" = "Subraktion";
+"Total" = "Total";
+"Writing" = "Skrivning";
+
+// New:
+"Decimals" = "Decimaler";
+"Wrong, minus one second." = "Fel, minus en sekund.";
+"points" = "poäng";
+"New highscore" = "Nytt rekord";
+// New:
+
+"Start" = "Start";

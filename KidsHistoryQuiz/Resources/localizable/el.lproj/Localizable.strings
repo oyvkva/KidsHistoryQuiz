@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Όλοι οι αποθηκευμένοι λογαριασμοί θα χαθούν.";
+"API Access Denied." = "Δεν είναι δυνατή η πρόσβαση στη Διασύνδεση Προγραμματισμού Εφαρμογών.";
+"Class code:" = "Κωδικός τάξης:";
+"Clear list" = "Αδειάστε τη λίστα";
+"(Ask teacher or leave empty)" = "(Ρωτήστε τον καθηγητή ή αφήστε κενό)";
+"email" = "email";
+"Email:" = "Email:";
+"Email does not exist." = "To email δεν υπάρχει.";
+"Email already exists" = "Το email υπάρχει ήδη.";
+"Error" = "Λάθος";
+"Password:" = "Κωδικός:";
+"password" = "κωδικός";
+"Password is too short, 8+ characters needed." = "Ο κωδικός είναι πολύ μικρός, χρειάζονται 8+ χαρακτήρες.";
+"Please fill in email and password." = "Παρακαλώ εισάγετε το όνομα χρήστη και τον κωδικό πρόσβασης.";
+"Please fill in your email." = "Παρακαλώ εισάγετε το email σας.";
+"Please sign up with your email and choose a password." = "Παρακαλώ εγγραφείτε με το email σας και επιλέξτε έναν κωδικό πρόσβασης.";
+"Class code is not correct, please try again." = "Ο κωδικός τάξης δεν είναι σωστός, παρακαλούμε δοκιμάστε ξανά.";
+"Profile" = "Προφίλ";
+"Profile updated." = "Το προφίλ ενημερώθηκε.";
+"Joined class:" = "Συμμετοχή στην τάξη:";
+"Invalid email." = "Μη έγκυρο email.";
+"Log in with email and password." = "Συνδεθείτε με το email και τον κωδικό πρόσβασης.";
+"No internet connection." = "Δεν υπάρχει σύνδεση στο διαδίκτυο.";
+"Offline" = "Εκτός σύνδεσης";
+"Tasks done" = "Οι εργασίες έχουν ολοκληρωθεί";
+"Success" = "Επιτυχία";
+"Welcome back" = "Καλώς ήρθατε και πάλι";
+"Write your email and we will send you a reset password link." = "Γράψτε το email σας και θα σας στείλουμε ένα σύνδεσμο επαναφοράς του κωδικού πρόσβασης.";
+"Wrong password." = "Λάθος κωδικός.";
+
+// Buttons
+"Account list" = "Λίστα λογαριασμού";
+"Add account" = "Προσθήκη λογαριασμού";
+"Cancel" = "Ακύρωση";
+"Forgot password?" = "Ξεχάσατε τον κωδικό;";
+"Save" = "Αποθήκευση";
+"Select account" = "Επιλέξτε λογαριασμό";
+"Sign up" = "Εγγραφή";
+"Tap on your account to log in." = "Πατήστε πάνω στο λογαριασμό σας για να συνδεθείτε.";
+"Highscore" = "Υψηλή βαθμολογία";
+"hours" = "ώρες";
+"Log in" = "Σύνδεση";
+"minutes" = "λεπτά";
+"Name:" = "Όνομα:";
+"OK" = "OK";
+"Choose profile image:" = "Επιλέξτε εικόνα προφίλ:";
+"Edit profile" = "Επεξεργασία προφίλ";
+"Reload" = "Επαναφόρτωση";
+"Reset password" = "Επαναφέρετε τον κωδικό πρόσβασης";
+"Skills" = "Δεξιότητες";
+"Statistics" = "Στατιστικά";
+
+// Name of topics:
+"Addition" = "Πρόσθεση";
+"Algebra" = "Άλγεβρα";
+"Alphabet" = "Αλφάβητος";
+"Biology" = "Βιολογία";
+"Chemistry" = "Χημεία";
+"Counting" = "Αριθμητική";
+"Division" = "Διαίρεση";
+"Geography" = "Γεωγραφία";
+"Geometry" = "Γεωμετρία";
+"History" = "Ιστορία";
+"Language" = "Γλώσσα";
+"Multiplication" = "Πολλαπλασιασμός";
+"Physics" = "Φυσική";
+"Politics" = "Πολιτικά";
+"Reading" = "Ανάγνωση";
+"Science" = "Επιστήμη";
+"Subtraction" = "Αφαίρεση";
+"Total" = "Σύνολο";
+"Writing" = "Συγγραφή";
+
+// New:
+"Decimals" = "Δεκαδικοί";
+"Wrong, minus one second." = "Λάθος, μείον ένα δευτερόλεπτο.";
+"points" = "πόντοι";
+"New highscore" = "Νέο υψηλό σκορ";
+// New:
+
+"Start" = "Αρχή";

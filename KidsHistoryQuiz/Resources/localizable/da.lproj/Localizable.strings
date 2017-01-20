@@ -1,0 +1,82 @@
+﻿// Popup Messages
+"All saved accounts will be lost." = "Alle gemte konti vil gå tabt.";
+"API Access Denied." = "API adgang nægtet.";
+"Class code:" = "Klassekode:";
+"Clear list" = "Ryd liste";
+"(Ask teacher or leave empty)" = "(Spørg lærer eller lad stå tomt)";
+"email" = "mail";
+"Email:" = "Mail:";
+"Email does not exist." = "Mailadresse eksisterer ikke.";
+"Email already exists." = "Mailadresse eksisterer allerede.";
+"Error" = "Fejl";
+"Password:" = "Adgangskode:";
+"password" = "adgangskode";
+"Password is too short, 8+ characters needed." = "Adgangskode er for kort, 8+ tegn påkrævet.";
+"Please fill in email and password." = "Udfyld venligst brugernavn og adgangskode.";
+"Please fill in your email." = "Udfyld venligst din mailadresse.";
+"Please sign up with your email and choose a password." = "Tilmeld dig venligst med din mailadresse og vælg en adgangskode.";
+"Class code is not correct, please try again." = "Klassekode er ikke korrekt, prøv venligst igen.";
+"Profile" = "Profil";
+"Profile updated." = "Profil opdateret.";
+"Joined class:" = "Tilmeldt klassen:";
+"Invalid email." = "Ugyldig mailadresse.";
+"Log in with email and password." = "Log ind med mailadresse og adgangskode.";
+"No internet connection." = "Ingen internet forbindelse.";
+"Offline" = "Offline";
+"Tasks done" = "Opgaver gjort";
+"Success" = "Succes";
+"Welcome back" = "Velkommen tilbage";
+"Write your email and we will send you a reset password link." = "Skriv din mailadresse, så vil vi sende dig et link til at nulstille din adgangskode.";
+"Wrong password." = "Forkert adgangskode.";
+
+// Buttons
+"Account list" = "Kontoliste";
+"Add account" = "Tilføj konto";
+"Cancel" = "Fortryd";
+"Forgot password?" = "Glemt adgangskode?";
+"Save" = "Gem";
+"Select account" = "Vælg konto";
+"Sign up" = "Tilmeld dig";
+"Tap on your account to log in." = "Klik på din konto for at logge ind.";
+"Highscore" = "Højeste score";
+"hours" = "timer";
+"Log in" = "Log ind";
+"minutes" = "minutter";
+"Name:" = "Navn:";
+"OK" = "OK";
+"Choose profile image:" = "Vælg profilbillede:";
+"Edit profile" = "Rediger profil";
+"Reload" = "Genindlæs";
+"Reset password" = "Nulstil adgangskode";
+"Skills" = "Færdigheder";
+"Statistics" = "Statistikker";
+
+// Name of topics:
+"Addition" = "Addition";
+"Algebra" = "Algebra";
+"Alphabet" = "Alfabet";
+"Biology" = "Biologi";
+"Chemistry" = "Kemi";
+"Counting" = "Tællefærdighed";
+"Division" = "Division";
+"Geography" = "Geografi";
+"Geometry" = "Geometri";
+"History" = "Historie";
+"Language" = "Sprog";
+"Multiplication" = "Multiplikation";
+"Physics" = "Fysik";
+"Politics" = "Politik";
+"Reading" = "Læsning";
+"Science" = "Videnskab";
+"Subtraction" = "Subtraktion";
+"Total" = "Total";
+"Writing" = "Skrivning";
+
+// New:
+"Decimals" = "Decimaler";
+"Wrong, minus one second." = "Forkert, minus et sekund.";
+"points" = "point";
+"New highscore" = "Ny highscore";
+// New:
+
+"Start" = "Start";

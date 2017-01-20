@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		041239F5DFD6ECD1A3283DB5 /* Pods_KidsHistoryQuiz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E8AA083C2E627DEBF8D89BC4 /* Pods_KidsHistoryQuiz.framework */; };
 		0D3FEE7E1E322A010078DF6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3FEE7D1E322A010078DF6D /* AppDelegate.swift */; };
-		0D3FEE801E322A010078DF6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3FEE7F1E322A010078DF6D /* ViewController.swift */; };
 		0D3FEE851E322A010078DF6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D3FEE841E322A010078DF6D /* Assets.xcassets */; };
 		0D3FEE881E322A010078DF6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D3FEE861E322A010078DF6D /* LaunchScreen.storyboard */; };
 		0D3FEE931E322A010078DF6D /* KidsHistoryQuizTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3FEE921E322A010078DF6D /* KidsHistoryQuizTests.swift */; };
@@ -79,7 +78,6 @@
 /* Begin PBXFileReference section */
 		0D3FEE7A1E322A010078DF6D /* KidsHistoryQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KidsHistoryQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D3FEE7D1E322A010078DF6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0D3FEE7F1E322A010078DF6D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0D3FEE841E322A010078DF6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D3FEE871E322A010078DF6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D3FEE891E322A010078DF6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -166,6 +164,7 @@
 		0D3FEF011E322AE90078DF6D /* HighscoreManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HighscoreManager.swift; sourceTree = "<group>"; };
 		0D3FEF021E322AE90078DF6D /* SettingsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsManager.swift; sourceTree = "<group>"; };
 		0D3FEF041E322AE90078DF6D /* CategoryCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		0D3FEF2F1E322C1B0078DF6D /* KidsHistoryQuiz.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = KidsHistoryQuiz.entitlements; sourceTree = "<group>"; };
 		2819B8A60171E407728AEEFA /* Pods-KidsHistoryQuiz.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KidsHistoryQuiz.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KidsHistoryQuiz/Pods-KidsHistoryQuiz.debug.xcconfig"; sourceTree = "<group>"; };
 		C5704F63FF1999E81A180F7B /* Pods-KidsHistoryQuiz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KidsHistoryQuiz.release.xcconfig"; path = "Pods/Target Support Files/Pods-KidsHistoryQuiz/Pods-KidsHistoryQuiz.release.xcconfig"; sourceTree = "<group>"; };
 		E8AA083C2E627DEBF8D89BC4 /* Pods_KidsHistoryQuiz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KidsHistoryQuiz.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -222,8 +221,8 @@
 		0D3FEE7C1E322A010078DF6D /* KidsHistoryQuiz */ = {
 			isa = PBXGroup;
 			children = (
+				0D3FEF2F1E322C1B0078DF6D /* KidsHistoryQuiz.entitlements */,
 				0D3FEE7D1E322A010078DF6D /* AppDelegate.swift */,
-				0D3FEE7F1E322A010078DF6D /* ViewController.swift */,
 				0D3FEEAD1E322AE90078DF6D /* Controllers */,
 				0D3FEEB21E322AE90078DF6D /* Models */,
 				0D3FEEB41E322AE90078DF6D /* Resources */,
@@ -462,6 +461,11 @@
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 54A6CMW22R;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					0D3FEE8D1E322A010078DF6D = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -637,7 +641,6 @@
 				0D3FEF2C1E322AE90078DF6D /* HighscoreManager.swift in Sources */,
 				0D3FEF081E322AE90078DF6D /* ViewController.swift in Sources */,
 				0D3FEF061E322AE90078DF6D /* GameViewController.swift in Sources */,
-				0D3FEE801E322A010078DF6D /* ViewController.swift in Sources */,
 				0D3FEF071E322AE90078DF6D /* LevelSelectViewController.swift in Sources */,
 				0D3FEF051E322AE90078DF6D /* EndGamePopupViewController.swift in Sources */,
 				0D3FEF091E322AE90078DF6D /* ProblemSet.swift in Sources */,
@@ -840,6 +843,7 @@
 			baseConfigurationReference = 2819B8A60171E407728AEEFA /* Pods-KidsHistoryQuiz.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KidsHistoryQuiz/KidsHistoryQuiz.entitlements;
 				DEVELOPMENT_TEAM = 54A6CMW22R;
 				INFOPLIST_FILE = KidsHistoryQuiz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -854,6 +858,7 @@
 			baseConfigurationReference = C5704F63FF1999E81A180F7B /* Pods-KidsHistoryQuiz.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KidsHistoryQuiz/KidsHistoryQuiz.entitlements;
 				DEVELOPMENT_TEAM = 54A6CMW22R;
 				INFOPLIST_FILE = KidsHistoryQuiz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
